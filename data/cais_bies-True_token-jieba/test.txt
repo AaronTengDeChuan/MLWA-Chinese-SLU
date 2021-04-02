@@ -1,0 +1,9792 @@
+来 O B
+张 B-singer_name B
+信 I-singer_name I
+哲 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+其 B-song_name B
+实 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+真 O B
+爱 O B
+听 O B
+演 B-song_name B
+唱 E-song_name E
+。 O B
+Chat
+
+今 B-date B
+天 E-date E
+冷 O B
+吗 O B
+GetWeather
+
+放 O B
+许 B-singer_name B
+嵩 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+d B-singer_name B
+j I-singer_name E
+白 I-singer_name B
+雪 E-singer_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+米 B-story_name B
+小 I-story_name B
+圈 I-story_name E
+上 I-story_name B
+学 I-story_name E
+记 E-story_name B
+四 B-story_tag B
+年 I-story_tag I
+级 E-story_tag E
+PlayFMStory
+
+今 B-date B
+天 E-date E
+成 B-location B
+都 E-location E
+天 O B
+气 O E
+怎 O B
+么 O I
+样 O E
+GetWeather
+
+我 O B
+想 O B
+听 O B
+听 B-song_name E
+心 E-song_name B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+兄 B-song_name B
+弟 I-song_name E
+抱 I-song_name B
+一 I-song_name B
+下 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+落 B-song_name B
+空 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+火 B-song_name B
+火 I-song_name E
+的 I-song_name B
+爱 E-song_name B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+节 B-song_type B
+奏 I-song_type E
+强 E-song_type B
+的 O B
+歌 O B
+PlayMusic
+
+来 O B
+首 O E
+纤 B-song_name B
+夫 I-song_name E
+的 I-song_name B
+爱 E-song_name B
+PlayMusic
+
+放 O B
+学 O E
+别 O B
+走 O B
+放 O B
+学 O E
+别 O B
+走 O B
+Chat
+
+我 O B
+要 O E
+听 O B
+广 B-singer_name B
+东 I-singer_name E
+雨 I-singer_name B
+神 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+央 B-news_tag B
+广 E-news_tag E
+新 O B
+闻 O E
+GetNews
+
+放 O B
+首 O I
+学 B-song_name E
+猫 I-song_name B
+叫 E-song_name E
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+说 B-song_name B
+爱 I-song_name B
+你 E-song_name B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+飞 B-song_name B
+天 E-song_name E
+PlayMusic
+
+唱 O B
+歌 O E
+吴 B-singer_name B
+亦 I-singer_name I
+凡 E-singer_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+胡 B-singer_name B
+6 I-singer_name B
+6 E-singer_name E
+的 O B
+浪 B-song_name B
+人 I-song_name E
+琵 I-song_name B
+琶 E-song_name E
+PlayMusic
+
+@ O B
+# O B
+胡 B-singer_name B
+歌 E-singer_name E
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+人 B-song_name B
+走 I-song_name I
+茶 I-song_name I
+凉 E-song_name E
+。 O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+彩 B-song_name B
+虹 I-song_name E
+的 I-song_name B
+约 I-song_name B
+定 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+金 B-song_type B
+曲 E-song_type E
+PlayMusic
+
+播 O B
+放 O E
+告 B-song_name B
+白 I-song_name E
+气 I-song_name B
+球 E-song_name E
+歌 O B
+曲 O E
+PlayMusic
+
+唱 B-song_name B
+的 I-song_name B
+响 I-song_name B
+亮 E-song_name E
+PlayMusic
+
+搜 O B
+一 O B
+下 O E
+新 B-song_name B
+年 I-song_name I
+好 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+流 B-song_type B
+行 I-song_type I
+歌 I-song_type I
+曲 E-song_type E
+。 O B
+PlayMusic
+
+给 O B
+我 O B
+唱 O B
+一 O B
+首 O E
+酒 B-song_name B
+干 I-song_name E
+倘 I-song_name B
+卖 I-song_name E
+无 E-song_name B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+新 B-song_type B
+歌 E-song_type E
+PlayMusic
+
+播 O B
+放 O E
+齐 B-singer_name B
+秦 E-singer_name E
+的 O B
+外 B-song_name B
+面 I-song_name E
+的 I-song_name B
+世 I-song_name B
+界 E-song_name E
+PlayMusic
+
+唱 O B
+个 O E
+小 B-song_name B
+二 I-song_name B
+郎 E-song_name E
+。 O B
+PlayMusic
+
+你 O B
+好 O E
+我 O B
+要 O E
+Chat
+
+播 O B
+放 O E
+d B-song_type B
+j E-song_type E
+舞 B-song_type B
+曲 E-song_type E
+PlayMusic
+
+搜 O B
+索 O E
+歌 O B
+曲 O E
+， O B
+梦 B-song_name B
+的 I-song_name B
+翅 I-song_name B
+膀 I-song_name E
+受 I-song_name B
+了 I-song_name I
+伤 E-song_name E
+。 O B
+PlayMusic
+
+贺 B-singer_name B
+一 I-singer_name I
+航 E-singer_name E
+的 O B
+原 B-song_name B
+来 I-song_name E
+占 I-song_name B
+据 I-song_name E
+你 I-song_name B
+内 I-song_name B
+心 I-song_name E
+的 I-song_name B
+人 I-song_name B
+不 I-song_name B
+是 I-song_name E
+我 E-song_name B
+PlayMusic
+
+放 O B
+首 O E
+浪 B-song_name B
+子 I-song_name I
+回 I-song_name I
+头 E-song_name E
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+张 B-singer_name B
+杰 E-singer_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+爱 B-song_name B
+太 I-song_name I
+痛 E-song_name E
+PlayMusic
+
+唱 O B
+孙 B-singer_name B
+燕 I-singer_name I
+姿 E-singer_name E
+的 O B
+天 B-song_name B
+黑 I-song_name I
+黑 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+天 B-singer_name B
+佑 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+李 B-song_name B
+白 E-song_name E
+。 O B
+PlayMusic
+
+你 O B
+会 O B
+唱 O B
+中 B-song_language B
+文 E-song_language E
+儿 B-song_type B
+歌 E-song_type E
+吗 O B
+PlayMusic
+
+灰 B-song_name B
+姑 I-song_name I
+娘 E-song_name E
+歌 O B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+狐 B-song_name B
+狸 I-song_name E
+爱 I-song_name B
+上 I-song_name E
+熊 E-song_name B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+中 B-song_language B
+文 E-song_language E
+流 B-song_type B
+行 E-song_type I
+歌 O I
+曲 O E
+PlayMusic
+
+唱 O B
+红 B-song_type E
+歌 E-song_type B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+音 O B
+乐 O E
+， O B
+丑 B-song_name B
+八 I-song_name I
+怪 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+伤 B-song_name B
+不 I-song_name I
+起 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+为 B-song_name B
+什 I-song_name I
+么 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+一 O B
+首 O E
+世 B-song_name B
+上 I-song_name E
+只 I-song_name B
+有 I-song_name E
+妈 I-song_name B
+妈 I-song_name E
+好 E-song_name B
+PlayMusic
+
+催 B-song_type B
+眠 I-song_type I
+曲 E-song_type E
+PlayMusic
+
+说 B-song_name B
+散 I-song_name E
+就 I-song_name B
+散 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+听 O B
+哥 O E
+一 B-song_name B
+人 I-song_name E
+六 I-song_name B
+神 I-song_name I
+无 I-song_name I
+主 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+邓 B-singer_name B
+紫 I-singer_name I
+棋 E-singer_name E
+唱 O B
+的 O I
+歌 O E
+。 O B
+PlayMusic
+
+你 O B
+要 O B
+不 O B
+要 O E
+唱 O B
+p B-song_name B
+o I-song_name I
+p E-song_name E
+给 O B
+我 O B
+听 O B
+？ O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+错 B-song_name E
+爱 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+放 O B
+首 O E
+陈 B-singer_name B
+奕 I-singer_name I
+迅 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+如 B-song_name B
+果 I-song_name E
+有 I-song_name B
+来 I-song_name I
+生 E-song_name E
+PlayMusic
+
+0 B-song_type B
+0 I-song_type E
+后 E-song_type B
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+等 B-song_name B
+你 I-song_name B
+下 I-song_name B
+课 E-song_name E
+PlayMusic
+
+请 O B
+给 O B
+我 O B
+看 O B
+， O B
+葫 B-song_name B
+芦 I-song_name I
+娃 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+再 B-song_name B
+见 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+老 B-song_name B
+婆 I-song_name E
+老 I-song_name B
+婆 I-song_name E
+我 I-song_name B
+爱 I-song_name I
+你 E-song_name E
+！ O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+， O B
+转 B-song_name B
+眼 I-song_name E
+不 I-song_name B
+见 E-song_name E
+。 O B
+PlayMusic
+
+现 B-date B
+在 E-date E
+几 O B
+度 O E
+GetWeather
+
+播 O B
+放 O E
+亲 B-song_name B
+爱 I-song_name E
+的 I-song_name B
+小 I-song_name B
+孩 E-song_name E
+。 O B
+PlayMusic
+
+给 O B
+我 O B
+唱 O B
+一 O B
+首 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+歌 O B
+曲 O E
+小 B-song_name B
+鸡 I-song_name E
+小 I-song_name B
+鸡 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+你 O B
+唱 O B
+薛 B-singer_name B
+之 I-singer_name I
+谦 E-singer_name E
+的 O B
+演 B-song_name B
+员 E-song_name E
+PlayMusic
+
+奥 B-song_name B
+特 I-song_name I
+曼 I-song_name E
+之 I-song_name B
+歌 E-song_name E
+PlayMusic
+
+一 B-song_name B
+无 I-song_name I
+所 I-song_name I
+有 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+我 B-song_name B
+们 I-song_name E
+的 I-song_name B
+明 I-song_name B
+天 E-song_name E
+这 O B
+首 O B
+歌 O I
+曲 O E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+彩 B-song_name B
+虹 I-song_name E
+的 I-song_name B
+微 I-song_name B
+笑 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+， O B
+稳 B-song_name B
+稳 I-song_name E
+的 I-song_name B
+幸 I-song_name B
+福 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+相 B-song_name B
+信 I-song_name E
+自 I-song_name B
+己 E-song_name E
+歌 O B
+曲 O E
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+一 B-song_name B
+路 I-song_name E
+向 I-song_name B
+北 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+儿 B-story_tag B
+童 E-story_tag E
+故 O B
+事 O E
+PlayFMStory
+
+放 O B
+一 O B
+首 O E
+好 B-song_type B
+听 E-song_type E
+的 O B
+的 O B
+民 B-song_type B
+歌 E-song_type E
+歌 O B
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+捉 B-song_name B
+泥 I-song_name B
+鳅 E-song_name E
+PlayMusic
+
+唱 O B
+英 B-song_type B
+语 E-song_type I
+歌 O E
+。 O B
+PlayMusic
+
+你 O B
+给 O B
+我 O B
+唱 O B
+一 O B
+首 O E
+逆 B-song_name B
+战 E-song_name E
+。 O B
+PlayMusic
+
+来 O B
+首 O E
+英 B-song_type B
+文 E-song_type E
+的 O B
+吧 O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+， O B
+让 B-song_name B
+我 I-song_name B
+们 I-song_name E
+荡 I-song_name B
+起 I-song_name E
+双 I-song_name B
+桨 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+为 B-song_name B
+爱 I-song_name B
+痴 I-song_name B
+狂 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+洋 B-song_name B
+娃 I-song_name I
+娃 I-song_name E
+和 I-song_name B
+小 I-song_name B
+熊 I-song_name E
+跳 I-song_name B
+舞 E-song_name E
+。 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+小 B-song_name B
+兔 I-song_name I
+子 I-song_name E
+乖 I-song_name B
+乖 E-song_name E
+PlayMusic
+
+军 B-news_tag B
+事 E-news_tag E
+新 O B
+闻 O E
+GetNews
+
+唱 O B
+首 O B
+歌 O I
+曲 O E
+雨 B-song_name B
+花 I-song_name I
+石 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O I
+歌 O I
+曲 O E
+一 B-song_name B
+生 I-song_name E
+所 I-song_name B
+爱 E-song_name B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+姚 B-singer_name B
+贝 I-singer_name I
+娜 E-singer_name E
+的 O B
+画 B-song_name B
+心 E-song_name E
+PlayMusic
+
+歌 O B
+曲 O E
+你 B-song_name B
+还 I-song_name B
+要 I-song_name E
+我 I-song_name B
+怎 I-song_name B
+样 E-song_name E
+？ O B
+PlayMusic
+
+陈 B-singer_name B
+乐 I-singer_name I
+基 E-singer_name E
+PlayMusic
+
+你 O B
+唱 O B
+一 O B
+首 O E
+忘 B-song_name B
+情 I-song_name I
+水 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+一 O B
+首 O E
+挥 B-song_name B
+动 I-song_name E
+翅 I-song_name B
+膀 I-song_name E
+的 I-song_name B
+女 I-song_name B
+孩 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+帮 O B
+我 O B
+明 B-date B
+天 I-date E
+八 I-date B
+点 E-date E
+的 O B
+闹 O B
+钟 O E
+Remind
+
+音 O B
+乐 O E
+求 B-song_name B
+佛 E-song_name E
+。 O B
+PlayMusic
+
+你 O B
+能 O B
+给 O B
+我 O B
+唱 O B
+首 O B
+咚 B-song_name E
+吧 I-song_name B
+啦 E-song_name B
+！ O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+纯 B-song_type B
+音 I-song_type I
+乐 E-song_type E
+PlayMusic
+
+来 O B
+首 O B
+劲 B-song_type E
+爆 E-song_type B
+的 O B
+歌 O B
+曲 O E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+吴 B-singer_name B
+青 I-singer_name B
+峰 E-singer_name E
+的 O B
+起 B-song_name B
+风 I-song_name E
+了 E-song_name B
+PlayMusic
+
+汪 B-singer_name B
+苏 I-singer_name E
+泷 E-singer_name B
+的 O B
+一 B-song_name B
+笑 I-song_name I
+倾 I-song_name I
+城 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+一 B-song_name B
+剪 I-song_name I
+梅 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+蓝 O B
+天 O E
+， O B
+来 O B
+一 O B
+首 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+音 B-singer_name E
+阙 I-singer_name B
+诗 I-singer_name B
+听 E-singer_name B
+的 O B
+红 B-song_name B
+昭 I-song_name I
+愿 E-song_name E
+PlayMusic
+
+帮 O B
+我 O B
+播 O B
+放 O E
+日 B-song_language B
+语 E-song_language E
+歌 O B
+PlayMusic
+
+闯 B-song_name B
+天 I-song_name B
+涯 E-song_name E
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+张 B-singer_name B
+学 I-singer_name I
+友 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+我 O B
+想 O B
+听 O B
+左 B-song_name B
+手 I-song_name E
+右 I-song_name B
+手 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+睡 B-story_tag B
+前 E-story_tag B
+胎 B-story_tag B
+教 E-story_tag E
+故 O B
+事 O E
+PlayFMStory
+
+快 B-song_name B
+乐 I-song_name E
+的 I-song_name B
+跳 I-song_name B
+吧 E-song_name B
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+歌 O B
+曲 O E
+没 B-song_name B
+有 I-song_name E
+以 I-song_name B
+后 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+新 B-song_name B
+年 I-song_name I
+好 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+雨 B-song_name B
+花 I-song_name I
+石 E-song_name E
+。 O B
+PlayMusic
+
+一 O B
+首 O E
+小 B-song_name B
+兔 I-song_name I
+子 I-song_name E
+乖 I-song_name B
+乖 E-song_name E
+。 O B
+PlayMusic
+
+后 B-date B
+天 E-date E
+天 O B
+气 O I
+预 O I
+报 O E
+GetWeather
+
+播 O B
+放 O E
+沙 B-song_name B
+漠 E-song_name E
+PlayMusic
+
+现 O B
+在 O E
+多 O B
+少 O E
+时 O B
+间 O E
+了 O B
+GetDate
+
+请 O B
+放 O E
+海 B-song_name B
+草 I-song_name E
+舞 E-song_name B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+热 B-song_type B
+歌 E-song_type E
+PlayMusic
+
+听 O B
+郭 B-actor_name B
+德 I-actor_name I
+纲 E-actor_name E
+相 O B
+声 O E
+PlayFMCrosstalk
+
+八 B-song_name B
+月 I-song_name E
+桂 I-song_name B
+花 I-song_name E
+遍 I-song_name B
+地 I-song_name E
+开 E-song_name B
+PlayMusic
+
+来 O B
+一 O B
+首 O I
+歌 B-song_name E
+在 I-song_name B
+飞 E-song_name B
+。 O B
+PlayMusic
+
+唱 O B
+首 O E
+张 B-singer_name B
+韶 I-singer_name I
+涵 E-singer_name E
+的 O B
+歌 O B
+吧 O B
+PlayMusic
+
+歌 O B
+曲 O E
+葫 B-song_name B
+芦 I-song_name I
+娃 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+海 B-singer_name B
+潮 I-singer_name E
+哥 E-singer_name B
+的 O B
+C B-song_name B
+哩 I-song_name B
+C I-song_name B
+哩 E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+艾 B-singer_name B
+福 I-singer_name I
+杰 I-singer_name E
+尼 E-singer_name B
+; O B
+B B-singer_name B
+o I-singer_name I
+o I-singer_name I
+M I-singer_name E
+黄 I-singer_name B
+旭 E-singer_name E
+; O B
+田 B-singer_name B
+羽 I-singer_name I
+生 E-singer_name E
+的 O B
+说 B-song_name B
+散 I-song_name B
+就 I-song_name B
+散 E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+陈 B-singer_name B
+慧 I-singer_name I
+娴 E-singer_name E
+的 O B
+千 B-song_name B
+千 I-song_name I
+阙 I-song_name I
+歌 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+森 B-song_name B
+林 I-song_name E
+游 I-song_name B
+乐 I-song_name I
+场 E-song_name E
+这 O B
+首 O B
+歌 O E
+PlayMusic
+
+放 O B
+闽 B-song_type B
+南 E-song_type I
+歌 O E
+PlayMusic
+
+有 B-fiction_tag B
+声 E-fiction_tag I
+书 O E
+PlayFMFiction
+
+小 O B
+欧 O E
+， O B
+我 O B
+想 O B
+听 O B
+青 B-song_name B
+春 I-song_name E
+修 I-song_name B
+炼 I-song_name E
+手 I-song_name B
+册 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+歌 O B
+曲 O E
+共 B-song_name B
+同 I-song_name E
+渡 I-song_name B
+过 E-song_name E
+PlayMusic
+
+讲 O B
+西 B-fiction_name B
+游 I-fiction_name I
+记 E-fiction_name E
+PlayFMFiction
+
+嗯 O B
+帮 O B
+我 O B
+讲 O B
+一 O B
+个 O E
+灰 B-story_name B
+姑 I-story_name I
+娘 E-story_name E
+的 O B
+故 O B
+事 O E
+PlayFMStory
+
+我 O B
+要 O E
+听 O B
+任 B-singer_name B
+贤 I-singer_name I
+齐 E-singer_name E
+的 O B
+水 B-song_name B
+晶 E-song_name E
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+名 O B
+叫 O E
+父 B-song_name B
+亲 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+你 O B
+给 O B
+我 O B
+唱 O B
+情 B-song_name B
+人 I-song_name E
+桥 E-song_name B
+。 O B
+PlayMusic
+
+给 O B
+我 O B
+来 O B
+一 O B
+首 O E
+小 B-song_name B
+星 I-song_name I
+星 E-song_name E
+。 O B
+PlayMusic
+
+我 B-song_name B
+的 I-song_name B
+天 I-song_name B
+空 E-song_name E
+歌 O B
+曲 O E
+PlayMusic
+
+大 B-song_name B
+鱼 E-song_name E
+。 O B
+PlayMusic
+
+逆 B-song_name B
+战 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+唱 O B
+我 B-song_name B
+好 I-song_name B
+想 I-song_name I
+你 E-song_name E
+呗 O B
+PlayMusic
+
+歌 O B
+曲 O E
+沙 B-song_name B
+漠 I-song_name E
+骆 I-song_name B
+驼 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+下 B-song_name B
+一 I-song_name B
+秒 E-song_name E
+。 O B
+PlayMusic
+
+找 O B
+一 O B
+个 O E
+美 B-story_name B
+女 I-story_name E
+与 I-story_name B
+野 I-story_name B
+兽 E-story_name E
+的 O B
+故 O B
+事 O E
+PlayFMStory
+
+我 O B
+想 O B
+听 O B
+美 B-song_name B
+德 I-song_name E
+说 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+映 B-song_name B
+山 I-song_name I
+红 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+张 B-singer_name B
+杰 E-singer_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+久 B-singer_name B
+石 I-singer_name E
+让 E-singer_name B
+的 O B
+音 O B
+乐 O E
+天 B-song_name B
+空 I-song_name E
+之 I-song_name B
+城 E-song_name B
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+明 B-song_name B
+天 I-song_name E
+会 I-song_name B
+更 I-song_name B
+好 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+默 S-song_name B
+PlayMusic
+
+播 O B
+放 O E
+年 B-song_name B
+少 I-song_name B
+有 I-song_name E
+为 E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+无 B-song_name B
+字 I-song_name I
+碑 E-song_name E
+PlayMusic
+
+赵 B-singer_name B
+鹏 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+刚 B-song_name B
+好 I-song_name E
+遇 I-song_name B
+见 I-song_name E
+你 E-song_name B
+这 O B
+首 O B
+歌 O I
+曲 O E
+。 O B
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+幸 B-song_name B
+福 I-song_name E
+了 I-song_name B
+然 I-song_name B
+后 I-song_name E
+呢 E-song_name B
+PlayMusic
+
+播 O B
+放 O E
+音 O B
+乐 O E
+嫁 B-song_name B
+衣 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+非 B-song_name B
+酋 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+无 B-song_name B
+赖 E-song_name E
+PlayMusic
+
+搜 O B
+索 O E
+一 O B
+下 O E
+在 O B
+王 B-album_name B
+牌 I-album_name E
+对 I-album_name B
+王 I-album_name B
+牌 E-album_name E
+里 O B
+面 O E
+王 B-singer_name B
+源 E-singer_name E
+唱 O B
+的 O B
+一 O B
+首 O E
+英 B-song_type B
+语 I-song_type E
+歌 I-song_type B
+曲 E-song_type E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+今 B-date B
+天 E-date E
+的 O B
+天 O B
+气 O I
+预 O I
+报 O E
+GetWeather
+
+播 O B
+放 O E
+音 O B
+乐 O E
+两 B-song_name B
+只 I-song_name E
+老 I-song_name B
+虎 E-song_name E
+PlayMusic
+
+声 B-song_name B
+音 E-song_name E
+唱 O B
+PlayMusic
+
+给 O B
+我 O B
+唱 O B
+个 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+吹 B-movie_name B
+牛 I-movie_name I
+大 I-movie_name I
+王 I-movie_name E
+历 I-movie_name B
+险 I-movie_name I
+记 E-movie_name E
+PlayMusic
+
+我 O B
+想 O E
+听 O B
+学 B-song_name E
+猫 I-song_name B
+叫 E-song_name E
+PlayMusic
+
+打 O B
+开 O E
+后 O B
+, O B
+我 O B
+想 O B
+听 O B
+最 B-song_name B
+炫 I-song_name B
+小 I-song_name B
+苹 I-song_name I
+果 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+唱 O B
+首 O E
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+歌 O B
+吧 O B
+PlayMusic
+
+放 O B
+抖 B-song_type I
+音 E-song_type E
+的 O B
+歌 O B
+PlayMusic
+
+请 O B
+播 O B
+放 O E
+成 B-song_name B
+都 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+小 B-song_name B
+燕 I-song_name I
+子 E-song_name E
+PlayMusic
+
+t B-singer_name B
+f I-singer_name I
+b I-singer_name I
+o I-singer_name I
+y I-singer_name I
+s E-singer_name E
+守 B-song_name B
+护 I-song_name E
+家 E-song_name B
+。 O B
+PlayMusic
+
+你 O B
+给 O B
+我 O B
+唱 O B
+一 O B
+首 O E
+许 B-singer_name B
+嵩 E-singer_name E
+的 O B
+歌 O B
+吧 O B
+PlayMusic
+
+你 O B
+唱 O B
+个 O E
+十 B-song_name B
+五 I-song_name E
+的 I-song_name B
+月 I-song_name B
+亮 E-song_name E
+。 O B
+PlayMusic
+
+你 O B
+好 O E
+今 B-date B
+天 E-date I
+天 O I
+气 O E
+怎 O B
+么 O I
+样 O E
+GetWeather
+
+高 B-song_type B
+棉 I-song_type I
+语 E-song_type E
+歌 O B
+曲 O E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+好 B-song_name B
+想 I-song_name I
+你 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+丑 B-song_name B
+八 I-song_name I
+怪 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+唱 O B
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+晴 B-song_name B
+天 E-song_name E
+给 O B
+我 O B
+听 O B
+吧 O B
+PlayMusic
+
+播 O B
+放 O E
+一 O B
+首 O E
+好 B-song_type B
+听 E-song_type E
+的 O B
+英 B-song_language B
+文 E-song_language E
+儿 B-song_type B
+歌 E-song_type E
+PlayMusic
+
+你 O B
+给 O B
+我 O B
+唱 O B
+一 O B
+个 O E
+， O B
+走 B-song_name B
+四 I-song_name B
+方 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+粤 B-song_language B
+语 E-song_language E
+歌 O B
+曲 O E
+PlayMusic
+
+七 B-song_name B
+月 I-song_name E
+的 I-song_name B
+风 I-song_name B
+八 I-song_name B
+月 I-song_name E
+的 I-song_name B
+雨 E-song_name B
+PlayMusic
+
+播 O B
+小 S-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+小 B-song_name B
+竹 I-song_name B
+笋 E-song_name E
+歌 O B
+。 O B
+PlayMusic
+
+歌 O B
+曲 O E
+大 B-song_name B
+王 I-song_name E
+叫 I-song_name B
+我 I-song_name B
+来 I-song_name B
+巡 I-song_name B
+山 E-song_name E
+。 O B
+PlayMusic
+
+你 B-song_name B
+是 I-song_name B
+我 I-song_name B
+的 I-song_name B
+眼 E-song_name B
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+要 O B
+听 O B
+左 B-song_name B
+手 I-song_name E
+右 I-song_name B
+手 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+稻 B-song_name B
+香 E-song_name E
+PlayMusic
+
+你 O B
+来 O B
+唱 O B
+刘 B-singer_name B
+若 I-singer_name I
+英 E-singer_name E
+的 O B
+后 B-song_name B
+来 E-song_name E
+PlayMusic
+
+明 B-date B
+天 I-date E
+六 I-date B
+点 I-date E
+四 I-date B
+十 E-date E
+叫 O B
+我 O B
+起 B-event B
+床 E-event E
+Remind
+
+我 O B
+想 O B
+听 O B
+爱 B-song_name B
+你 I-song_name B
+一 I-song_name B
+万 I-song_name I
+年 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+销 B-song_type B
+魂 E-song_type E
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+丑 B-song_name B
+八 I-song_name I
+怪 E-song_name E
+嘿 O B
+嘿 O E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+一 B-song_name B
+万 I-song_name I
+个 I-song_name E
+对 I-song_name B
+不 I-song_name I
+起 E-song_name E
+！ O B
+PlayMusic
+
+让 O B
+我 O B
+听 O B
+个 O E
+美 B-song_type B
+丽 I-song_type E
+的 I-song_type B
+歌 E-song_type B
+。 O B
+PlayMusic
+
+李 B-author_name B
+白 E-author_name E
+的 O B
+PlayPoem
+
+我 O B
+想 O B
+听 O B
+小 B-song_name B
+鸭 I-song_name I
+子 E-song_name E
+。 O B
+PlayMusic
+
+唱 O B
+一 O B
+段 O E
+张 B-singer_name B
+学 I-singer_name I
+友 E-singer_name E
+的 O B
+情 B-song_name B
+书 E-song_name E
+PlayMusic
+
+我 O B
+想 O E
+听 O B
+首 O E
+音 O B
+乐 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+笑 B-song_name B
+红 I-song_name I
+尘 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+闯 B-song_name B
+码 I-song_name B
+头 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+你 O B
+唱 O B
+树 B-song_name B
+读 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+从 B-song_name E
+开 I-song_name B
+始 I-song_name E
+到 I-song_name B
+现 I-song_name B
+在 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+我 O B
+放 O E
+一 O B
+首 O E
+刘 B-singer_name B
+德 I-singer_name I
+华 E-singer_name E
+的 O B
+今 B-song_name B
+天 E-song_name E
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+一 B-song_name B
+剪 I-song_name I
+梅 E-song_name E
+PlayMusic
+
+来 O B
+首 O E
+好 O B
+听 O E
+的 O B
+歌 O B
+曲 O E
+， O B
+小 B-song_name B
+燕 I-song_name I
+子 E-song_name E
+。 O B
+PlayMusic
+
+你 O B
+唱 O B
+世 B-song_name B
+上 I-song_name E
+只 I-song_name B
+有 I-song_name E
+妈 I-song_name B
+妈 I-song_name E
+好 E-song_name B
+给 O B
+我 O B
+听 O B
+听 O E
+。 O B
+PlayMusic
+
+天 B-song_name B
+空 I-song_name E
+之 I-song_name B
+城 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+唱 O B
+海 B-song_name B
+阔 I-song_name I
+天 I-song_name I
+空 E-song_name E
+啊 O B
+PlayMusic
+
+汪 B-singer_name B
+峰 E-singer_name E
+的 O B
+歌 O B
+！ O B
+PlayMusic
+
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+儿 O B
+PlayMusic
+
+打 B-song_name B
+靶 I-song_name E
+歌 E-song_name B
+PlayMusic
+
+放 O B
+海 B-song_name B
+草 I-song_name E
+舞 E-song_name B
+PlayMusic
+
+只 O B
+要 O E
+听 O B
+听 O E
+陈 B-singer_name B
+旭 E-singer_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+薛 B-singer_name B
+之 I-singer_name I
+谦 E-singer_name E
+的 O B
+其 B-song_name B
+实 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+动 B-song_name B
+心 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+情 B-song_name B
+哥 I-song_name I
+哥 E-song_name E
+。 O B
+PlayMusic
+
+帮 O B
+我 O B
+搜 O B
+索 O E
+歌 O B
+曲 O E
+水 B-song_name B
+调 I-song_name I
+歌 I-song_name I
+头 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+华 B-singer_name B
+晨 I-singer_name E
+宇 E-singer_name B
+的 O B
+异 B-song_name B
+类 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+冰 B-album_name B
+雪 I-album_name E
+奇 I-album_name B
+缘 E-album_name E
+主 B-song_type B
+题 I-song_type I
+曲 E-song_type E
+PlayMusic
+
+唱 O B
+打 B-song_name B
+靶 I-song_name E
+归 I-song_name B
+来 E-song_name E
+PlayMusic
+
+来 O B
+个 O E
+吹 B-song_type B
+眠 I-song_type I
+曲 E-song_type E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+小 B-song_name B
+毛 I-song_name I
+驴 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+文 B-singer_name B
+筱 I-singer_name I
+芮 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+刘 B-singer_name B
+德 I-singer_name I
+华 E-singer_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+雪 B-song_name B
+山 I-song_name E
+姑 I-song_name B
+娘 E-song_name E
+。 O B
+PlayMusic
+
+唱 O B
+江 B-song_name B
+南 E-song_name E
+吧 O B
+！ O B
+PlayMusic
+
+钢 B-song_type B
+琴 E-song_type E
+版 O B
+萨 B-song_type B
+克 I-song_type I
+斯 E-song_type E
+PlayMusic
+
+要 O B
+听 O B
+我 O B
+要 O B
+听 O B
+拉 B-song_name B
+萨 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+海 B-song_name B
+阔 I-song_name I
+天 I-song_name I
+空 E-song_name E
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+# O B
+我 B-song_name B
+好 I-song_name B
+想 I-song_name I
+你 E-song_name E
+PlayMusic
+
+唱 O B
+张 B-singer_name B
+韶 I-singer_name I
+涵 E-singer_name E
+隐 B-song_name B
+形 I-song_name E
+的 I-song_name B
+翅 I-song_name B
+膀 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+猫 B-story_name B
+和 I-story_name I
+老 I-story_name I
+鼠 E-story_name E
+PlayFMStory
+
+会 O B
+唱 O B
+信 B-song_name B
+仰 E-song_name E
+吗 O B
+？ O B
+PlayMusic
+
+老 B-song_name B
+鹰 I-song_name E
+之 I-song_name B
+歌 E-song_name E
+PlayMusic
+
+中 B-song_name B
+国 I-song_name E
+美 E-song_name B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+数 B-song_name E
+鸭 I-song_name B
+子 E-song_name E
+。 O B
+PlayMusic
+
+中 B-song_language B
+文 E-song_language E
+儿 B-song_type B
+歌 E-song_type E
+PlayMusic
+
+明 B-date B
+天 I-date E
+早 I-date B
+上 I-date E
+七 I-date B
+点 I-date E
+十 I-date B
+分 E-date E
+叫 O B
+我 O B
+起 B-event B
+床 E-event E
+Remind
+
+我 O B
+要 O E
+听 O B
+催 B-song_type B
+眠 I-song_type I
+曲 E-song_type E
+。 O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+五 B-singer_name B
+月 I-singer_name I
+天 E-singer_name E
+的 O B
+歌 O B
+吧 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+温 B-song_name B
+柔 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+山 B-song_name B
+海 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+比 O B
+较 O E
+嗨 S-song_type B
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+胎 B-song_type B
+教 E-song_type E
+音 O B
+乐 O E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+龙 B-song_name B
+卷 I-song_name I
+风 E-song_name E
+。 O B
+PlayMusic
+
+放 O B
+嘴 B-song_name B
+巴 I-song_name E
+嘟 I-song_name B
+嘟 E-song_name E
+PlayMusic
+
+帮 O B
+我 O B
+找 O B
+一 O B
+下 O E
+t B-singer_name B
+f I-singer_name I
+b I-singer_name I
+o I-singer_name I
+y I-singer_name I
+s E-singer_name E
+的 O B
+所 O B
+有 O E
+歌 O B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+卡 B-story_tag B
+酷 I-story_tag E
+幼 I-story_tag B
+儿 I-story_tag I
+园 E-story_tag E
+的 O B
+白 B-story_name B
+雪 I-story_name E
+皇 I-story_name B
+后 E-story_name E
+PlayFMStory
+
+我 O B
+想 O B
+听 O B
+修 B-song_name B
+炼 I-song_name E
+爱 I-song_name B
+情 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+李 B-singer_name B
+玉 I-singer_name I
+刚 E-singer_name E
+的 O B
+雨 B-song_name B
+花 I-song_name I
+石 E-song_name E
+PlayMusic
+
+说 O B
+话 O E
+快 O B
+说 O B
+， O B
+听 O B
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+我 O B
+想 O B
+听 O B
+忘 B-song_name B
+情 I-song_name I
+水 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+杜 B-singer_name B
+德 I-singer_name I
+伟 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+王 B-singer_name B
+德 I-singer_name I
+发 E-singer_name E
+; O B
+跟 B-singer_name B
+风 I-singer_name E
+超 I-singer_name B
+人 E-singer_name E
+的 O B
+我 B-song_name B
+要 I-song_name B
+买 E-song_name B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+小 B-song_name B
+兔 I-song_name I
+子 I-song_name E
+乖 I-song_name B
+乖 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+音 O B
+乐 O E
+y B-song_name B
+e I-song_name I
+e E-song_name E
+PlayMusic
+
+听 O B
+虹 B-song_name E
+之 I-song_name B
+间 E-song_name E
+这 O B
+首 O E
+。 O B
+PlayMusic
+
+e B-song_name B
+a I-song_name I
+s I-song_name I
+y E-song_name E
+Chat
+
+来 O B
+一 O B
+首 O E
+你 B-song_name B
+走 I-song_name B
+的 I-song_name B
+时 I-song_name B
+候 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+吴 B-singer_name B
+青 I-singer_name B
+峰 E-singer_name E
+的 O B
+起 B-song_name B
+风 I-song_name E
+了 E-song_name B
+PlayMusic
+
+你 O B
+放 O B
+歌 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+没 O B
+唱 O E
+就 O B
+唱 O B
+一 O B
+首 O E
+小 B-song_name B
+毛 I-song_name I
+驴 E-song_name E
+吧 O B
+！ O B
+PlayMusic
+
+你 O B
+唱 O B
+首 O I
+歌 O E
+给 O B
+我 O B
+听 O B
+， O B
+肯 B-song_name B
+定 E-song_name E
+。 O B
+PlayMusic
+
+放 B-song_name B
+学 I-song_name E
+别 I-song_name B
+走 E-song_name B
+PlayMusic
+
+你 O B
+会 O B
+唱 O B
+刘 B-singer_name B
+若 I-singer_name I
+英 E-singer_name E
+的 O B
+歌 O B
+吗 O B
+？ O B
+PlayMusic
+
+要 O B
+听 O B
+粤 B-song_language B
+语 E-song_language I
+歌 O E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+小 B-song_name B
+草 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+鹿 B-singer_name B
+晗 E-singer_name E
+的 O B
+致 B-song_name B
+爱 E-song_name E
+这 O B
+首 O B
+歌 O E
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+忘 B-song_name B
+情 I-song_name I
+水 E-song_name E
+， O B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+自 B-song_name B
+爱 E-song_name E
+。 O B
+PlayMusic
+
+那 O B
+， O B
+唱 O B
+， O B
+爱 S-song_name B
+。 O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+林 B-song_name B
+中 I-song_name I
+鸟 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+， O B
+彩 B-song_type B
+铃 E-song_type E
+。 O B
+PlayMusic
+
+我 B-song_name B
+的 I-song_name B
+祖 I-song_name B
+国 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+唐 B-poem_tag B
+诗 E-poem_tag E
+PlayPoem
+
+我 O B
+想 O B
+听 O B
+， O B
+白 B-song_name B
+雪 I-song_name I
+公 I-song_name I
+主 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+唱 O B
+， O B
+我 O B
+想 O B
+唱 O B
+两 B-song_name B
+只 I-song_name E
+老 I-song_name B
+虎 E-song_name E
+。 O B
+PlayMusic
+
+放 O B
+小 B-story_name B
+马 I-story_name E
+宝 I-story_name B
+莉 E-story_name E
+PlayFMStory
+
+微 O B
+微 O I
+一 O I
+笑 O E
+很 O B
+倾 O B
+城 O E
+什 O B
+么 O E
+时 O B
+候 O E
+开 O B
+播 O E
+AskKnowledge
+
+我 O B
+想 O B
+听 O B
+薛 B-singer_name B
+之 I-singer_name I
+谦 E-singer_name E
+的 O B
+丑 B-song_name B
+八 I-song_name I
+怪 E-song_name E
+PlayMusic
+
+脑 B-joke_tag B
+筋 I-joke_tag E
+急 I-joke_tag B
+转 I-joke_tag I
+弯 E-joke_tag E
+PlayFMJoke
+
+播 O B
+放 O E
+最 B-song_name B
+美 I-song_name E
+的 I-song_name B
+期 I-song_name B
+待 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+小 B-song_name B
+毛 I-song_name I
+驴 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+今 B-date B
+天 E-date E
+会 O B
+下 O B
+雪 O E
+吗 O B
+GetWeather
+
+t B-singer_name B
+f I-singer_name I
+b I-singer_name I
+o I-singer_name I
+y I-singer_name I
+s E-singer_name E
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+刘 B-singer_name B
+若 I-singer_name I
+英 E-singer_name E
+的 O B
+原 B-song_name B
+来 I-song_name E
+你 I-song_name B
+也 I-song_name B
+在 I-song_name B
+这 I-song_name B
+里 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+一 O B
+首 O E
+倍 B-song_name B
+儿 I-song_name E
+爽 E-song_name B
+PlayMusic
+
+唱 O B
+a B-song_name B
+b I-song_name I
+c E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+十 B-story_name B
+万 I-story_name I
+个 I-story_name E
+什 I-story_name B
+么 E-story_name E
+PlayFMStory
+
+换 O B
+首 O E
+八 B-song_name B
+连 I-song_name E
+杀 E-song_name B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+笑 B-song_name B
+话 E-song_name E
+。 O B
+PlayMusic
+
+讲 O B
+成 B-story_tag B
+语 E-story_tag I
+故 O I
+事 O E
+PlayFMStory
+
+看 O B
+娱 B-news_tag B
+乐 E-news_tag E
+新 O B
+闻 O E
+GetNews
+
+唱 O B
+首 O E
+常 B-song_name B
+回 I-song_name I
+家 I-song_name E
+看 I-song_name B
+看 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+卡 B-song_name B
+路 I-song_name I
+里 E-song_name E
+。 O B
+PlayMusic
+
+那 B-singer_name B
+吾 I-singer_name I
+克 I-singer_name I
+热 E-singer_name E
+AskKnowledge
+
+唱 O B
+小 B-song_name B
+星 I-song_name I
+星 E-song_name E
+。 O B
+PlayMusic
+
+给 O B
+我 O B
+放 O B
+一 O B
+些 O E
+适 O B
+合 O E
+治 B-song_type B
+愈 E-song_type E
+时 O B
+听 O B
+的 O I
+歌 O E
+PlayMusic
+
+来 O B
+个 O E
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+你 O B
+会 O B
+转 O B
+， O B
+你 O B
+会 O B
+唱 O B
+宠 B-song_name B
+爱 E-song_name E
+。 O B
+PlayMusic
+
+给 O B
+我 O B
+唱 O B
+一 O B
+首 O E
+小 B-song_name B
+白 I-song_name B
+杨 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+唱 O B
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+铠 B-song_name B
+甲 I-song_name E
+勇 I-song_name B
+士 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+刷 B-song_name B
+牙 I-song_name E
+歌 E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+韩 B-song_type B
+文 E-song_type E
+歌 O B
+。 O B
+PlayMusic
+
+你 O B
+好 O E
+你 O B
+是 O B
+谁 O B
+Chat
+
+播 O B
+放 O E
+殷 B-singer_name B
+秀 I-singer_name I
+梅 E-singer_name E
+的 O B
+祝 B-song_name B
+酒 I-song_name I
+歌 E-song_name E
+PlayMusic
+
+唱 O B
+个 O E
+一 B-song_name B
+笑 I-song_name I
+倾 I-song_name I
+城 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+爱 B-song_name B
+声 I-song_name E
+叹 I-song_name B
+气 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+唱 O B
+首 O E
+梁 B-singer_name B
+静 I-singer_name I
+茹 E-singer_name E
+的 O B
+歌 O B
+给 O B
+我 O B
+听 O B
+PlayMusic
+
+卢 B-singer_name B
+巧 I-singer_name I
+音 E-singer_name E
+风 B-song_name B
+吹 I-song_name E
+不 I-song_name B
+走 I-song_name B
+笑 I-song_name B
+容 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+月 B-song_name B
+亮 I-song_name E
+湾 E-song_name B
+PlayMusic
+
+爱 B-song_name B
+情 I-song_name E
+让 I-song_name B
+我 I-song_name B
+心 I-song_name B
+痛 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+卡 B-song_name B
+路 I-song_name I
+里 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+影 B-song_type B
+视 I-song_type E
+金 I-song_type B
+曲 E-song_type E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+中 B-singer_name B
+央 I-singer_name I
+人 I-singer_name I
+民 I-singer_name I
+广 I-singer_name I
+播 I-singer_name I
+电 I-singer_name I
+台 I-singer_name E
+少 I-singer_name B
+年 I-singer_name E
+广 I-singer_name B
+播 I-singer_name E
+合 I-singer_name B
+唱 I-singer_name I
+团 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+赛 B-story_name B
+罗 I-story_name E
+奥 I-story_name B
+特 I-story_name I
+曼 E-story_name E
+PlayFMStory
+
+播 O B
+放 O E
+青 B-song_name B
+花 I-song_name I
+瓷 E-song_name E
+PlayMusic
+
+健 B-song_name B
+康 I-song_name I
+歌 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+泰 B-song_language B
+语 E-song_language E
+歌 O B
+PlayMusic
+
+一 O B
+, O B
+唱 O B
+一 O B
+首 O E
+, O B
+常 B-song_name B
+回 I-song_name I
+家 I-song_name E
+看 I-song_name B
+看 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+亡 B-song_name B
+灵 I-song_name E
+序 I-song_name B
+曲 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+周 B-singer_name B
+华 I-singer_name I
+健 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+琵 B-poem_name B
+琶 I-poem_name I
+行 E-poem_name E
+PlayPoem
+
+我 O B
+要 O E
+听 O B
+我 O B
+要 O B
+听 O B
+三 B-poem_name B
+字 I-poem_name I
+经 E-poem_name E
+PlayPoem
+
+你 O B
+好 O E
+， O B
+来 O B
+首 O E
+忘 B-song_name B
+情 I-song_name I
+水 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+小 B-song_name B
+水 I-song_name B
+果 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+听 O E
+老 B-song_name B
+公 E-song_name E
+。 O B
+PlayMusic
+
+放 O B
+爱 B-song_name I
+上 I-song_name E
+幼 I-song_name B
+儿 I-song_name I
+园 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+私 B-song_name B
+奔 I-song_name E
+到 I-song_name B
+月 I-song_name B
+球 E-song_name E
+。 O B
+PlayMusic
+
+聆 B-song_name B
+听 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+偏 B-song_name B
+偏 I-song_name E
+喜 I-song_name B
+欢 I-song_name E
+你 E-song_name B
+PlayMusic
+
+你 O B
+给 O B
+我 O B
+唱 O B
+一 O B
+首 O E
+蒋 B-singer_name B
+大 I-singer_name I
+为 E-singer_name E
+的 O B
+PlayMusic
+
+你 O B
+会 O B
+唱 O B
+黄 B-song_type B
+梅 I-song_type I
+戏 E-song_type E
+？ O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+傻 B-song_name B
+瓜 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+满 B-poem_name B
+江 I-poem_name I
+红 E-poem_name E
+PlayPoem
+
+你 O B
+会 O B
+唱 O B
+刘 B-singer_name B
+德 I-singer_name I
+华 E-singer_name E
+的 O B
+歌 O B
+吗 O B
+？ O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+真 B-song_name B
+话 E-song_name E
+。 O B
+Chat
+
+我 O B
+要 O E
+听 O B
+网 B-song_type B
+络 E-song_type E
+歌 B-song_type B
+手 E-song_type E
+的 O B
+歌 O B
+PlayMusic
+
+你 O B
+会 O B
+唱 O B
+当 B-song_name B
+你 I-song_name B
+老 I-song_name E
+了 E-song_name B
+这 O B
+首 O B
+歌 O E
+吗 O B
+？ O B
+PlayMusic
+
+你 O B
+会 O B
+唱 O B
+京 B-song_name B
+韵 I-song_name I
+大 I-song_name I
+鼓 E-song_name E
+吗 O B
+？ O B
+PlayMusic
+
+播 O B
+放 O E
+盗 B-song_name B
+将 I-song_name I
+行 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+你 B-song_name B
+就 I-song_name B
+不 I-song_name B
+要 I-song_name E
+想 I-song_name B
+起 I-song_name E
+我 E-song_name B
+PlayMusic
+
+播 O B
+放 O E
+丫 B-song_name B
+头 E-song_name E
+。 O B
+PlayMusic
+
+会 O B
+唱 O B
+林 B-singer_name B
+俊 I-singer_name I
+杰 E-singer_name E
+的 O B
+歌 O B
+么 O B
+PlayMusic
+
+听 O B
+薛 B-singer_name B
+之 I-singer_name I
+谦 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+求 B-song_name B
+佛 E-song_name E
+PlayMusic
+
+唱 O B
+薛 B-singer_name B
+之 I-singer_name I
+谦 E-singer_name E
+的 O B
+演 B-song_name B
+员 E-song_name E
+给 O B
+我 O B
+听 O B
+. O B
+. O E
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+郭 B-actor_name B
+德 I-actor_name I
+纲 E-actor_name E
+的 O B
+相 O B
+声 O E
+PlayFMCrosstalk
+
+我 O B
+想 O B
+听 O B
+烟 B-singer_name B
+把 I-singer_name B
+儿 I-singer_name E
+乐 I-singer_name B
+队 E-singer_name E
+的 O B
+纸 B-song_name B
+短 I-song_name I
+情 I-song_name I
+长 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+二 B-song_name B
+十 I-song_name I
+岁 I-song_name E
+的 I-song_name B
+某 I-song_name B
+一 I-song_name B
+天 E-song_name E
+。 O B
+PlayMusic
+
+我 B-song_name B
+们 I-song_name E
+都 I-song_name B
+是 I-song_name B
+追 I-song_name B
+梦 I-song_name I
+人 E-song_name E
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+薛 B-singer_name B
+之 I-singer_name I
+谦 E-singer_name E
+的 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+C B-singer_name B
+G E-singer_name E
+, O B
+贺 B-singer_name B
+敬 I-singer_name I
+轩 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+今 B-date B
+天 E-date E
+昆 B-location B
+明 E-location E
+天 O B
+气 O E
+怎 O B
+么 O I
+样 O E
+GetWeather
+
+我 O B
+要 O E
+听 O B
+中 B-story_name B
+国 I-story_name E
+寓 I-story_name B
+言 I-story_name I
+故 I-story_name I
+事 E-story_name E
+PlayFMStory
+
+歌 O B
+曲 O E
+喜 B-song_name B
+欢 I-song_name E
+你 E-song_name B
+， O B
+邓 B-singer_name B
+紫 I-singer_name I
+棋 E-singer_name E
+。 O B
+PlayMusic
+
+唱 O B
+， O B
+我 B-song_name B
+爱 I-song_name I
+你 E-song_name E
+！ O B
+PlayMusic
+
+小 B-song_name B
+跳 I-song_name B
+蛙 E-song_name B
+PlayMusic
+
+播 O B
+放 O E
+情 B-song_name B
+深 I-song_name B
+深 I-song_name E
+雨 I-song_name B
+蒙 I-song_name I
+蒙 E-song_name E
+PlayMusic
+
+给 O B
+我 O B
+播 O B
+放 O E
+一 O B
+首 O E
+爱 B-song_name B
+爱 E-song_name E
+。 O B
+PlayMusic
+
+郭 B-actor_name B
+德 I-actor_name I
+纲 E-actor_name E
+于 B-actor_name B
+谦 E-actor_name B
+相 O B
+声 O E
+PlayFMCrosstalk
+
+播 O B
+放 O I
+歌 O I
+曲 O E
+逆 B-song_name B
+战 E-song_name E
+。 O B
+PlayMusic
+
+歌 B-song_name B
+在 I-song_name B
+飞 E-song_name B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+五 B-song_name B
+环 I-song_name E
+之 I-song_name B
+歌 E-song_name E
+。 O B
+PlayMusic
+
+周 B-singer_name B
+华 I-singer_name I
+健 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+郭 B-actor_name B
+德 I-actor_name I
+纲 E-actor_name E
+相 O B
+声 O E
+PlayFMCrosstalk
+
+给 O B
+我 O B
+放 O B
+歌 O B
+曲 O E
+捉 B-song_name B
+泥 I-song_name B
+鳅 E-song_name E
+。 O B
+PlayMusic
+
+十 B-date B
+分 I-date I
+钟 E-date E
+后 O B
+播 B-event B
+放 I-event E
+周 I-event B
+杰 I-event I
+伦 I-event E
+的 I-event B
+歌 E-event B
+Remind
+
+播 O B
+放 O E
+朋 B-song_name B
+友 I-song_name E
+的 I-song_name B
+酒 E-song_name B
+PlayMusic
+
+起 B-song_name B
+风 I-song_name E
+了 E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+， O B
+只 B-song_name B
+是 I-song_name E
+朋 I-song_name B
+友 E-song_name E
+。 O B
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+爱 B-song_name B
+的 I-song_name B
+故 I-song_name B
+事 I-song_name E
+上 I-song_name B
+集 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+新 B-song_type B
+年 E-song_type E
+歌 O B
+曲 O E
+PlayMusic
+
+你 O B
+播 O B
+放 O E
+一 O B
+首 O E
+大 B-song_name B
+梦 I-song_name B
+想 I-song_name I
+家 E-song_name E
+。 O B
+PlayMusic
+
+放 O B
+个 O E
+刘 B-singer_name B
+德 I-singer_name I
+华 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+帮 O B
+我 O B
+唱 O B
+一 O B
+首 O E
+逆 B-song_name B
+战 E-song_name E
+。 O B
+PlayMusic
+
+唱 O B
+鹿 B-singer_name I
+晗 E-singer_name E
+的 O B
+歌 O B
+可 O B
+以 O E
+吗 O B
+PlayMusic
+
+明 B-date B
+天 E-date E
+有 O B
+没 O I
+有 O E
+雨 O B
+GetWeather
+
+帮 O B
+我 O B
+搜 O B
+十 B-song_name B
+年 I-song_name E
+之 I-song_name B
+后 E-song_name E
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+张 B-singer_name B
+信 I-singer_name I
+哲 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+痒 S-song_name B
+PlayMusic
+
+下 B-song_name B
+定 I-song_name I
+决 I-song_name I
+心 I-song_name E
+忘 I-song_name B
+记 I-song_name E
+你 E-song_name B
+PlayMusic
+
+给 O B
+我 O B
+唱 O B
+大 B-song_name B
+梦 I-song_name B
+想 I-song_name I
+家 E-song_name E
+。 O B
+PlayMusic
+
+希 B-story_name B
+腊 I-story_name I
+神 I-story_name I
+话 E-story_name E
+PlayFMStory
+
+放 O B
+一 O B
+首 O E
+毛 B-singer_name B
+不 I-singer_name B
+易 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+歌 O B
+。 O B
+PlayMusic
+
+讲 O B
+一 O B
+个 O E
+米 B-story_name B
+小 I-story_name B
+圈 I-story_name E
+上 I-story_name B
+学 I-story_name E
+记 E-story_name B
+一 B-story_tag B
+二 I-story_tag I
+三 I-story_tag E
+年 I-story_tag B
+级 E-story_tag E
+PlayFMStory
+
+你 O B
+会 O B
+唱 O B
+忘 B-song_name B
+情 I-song_name I
+水 E-song_name E
+？ O B
+这 O B
+首 O B
+歌 O E
+吗 O B
+？ O B
+PlayMusic
+
+放 O B
+个 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+歌 O B
+听 O B
+听 O E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+徐 B-singer_name B
+秉 I-singer_name I
+龙 E-singer_name E
+的 O B
+千 B-song_name B
+禧 E-song_name E
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+沙 B-song_name B
+漠 I-song_name E
+骆 I-song_name B
+驼 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+我 B-song_name B
+们 I-song_name E
+不 I-song_name B
+一 I-song_name B
+样 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+伍 B-singer_name B
+佰 E-singer_name E
+的 O B
+你 B-song_name B
+是 I-song_name B
+我 I-song_name B
+的 I-song_name B
+花 I-song_name B
+朵 E-song_name E
+PlayMusic
+
+爱 B-song_name B
+情 I-song_name E
+这 I-song_name B
+杯 I-song_name B
+酒 I-song_name E
+谁 I-song_name B
+喝 I-song_name B
+都 I-song_name B
+得 I-song_name B
+醉 E-song_name B
+PlayMusic
+
+认 B-song_name B
+真 I-song_name E
+的 I-song_name B
+雪 E-song_name B
+PlayMusic
+
+播 O B
+放 O E
+音 O B
+乐 O E
+中 B-song_name B
+国 I-song_name I
+人 I-song_name I
+民 I-song_name I
+解 I-song_name I
+放 I-song_name I
+军 I-song_name E
+进 I-song_name B
+行 I-song_name I
+曲 E-song_name E
+PlayMusic
+
+放 O B
+一 B-song_name B
+只 I-song_name E
+哈 I-song_name B
+巴 I-song_name I
+狗 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+野 B-song_name B
+子 E-song_name E
+。 O B
+PlayMusic
+
+帮 O B
+我 O B
+搜 O B
+索 O E
+一 O B
+下 O E
+龙 B-song_name B
+珠 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+给 O B
+他 O B
+听 O B
+， O B
+我 S-song_name B
+。 O B
+Chat
+
+今 B-news_time B
+天 E-news_time E
+有 O B
+什 O B
+么 O E
+科 B-news_tag B
+技 E-news_tag E
+新 O B
+闻 O E
+GetNews
+
+这 B-song_name B
+歌 I-song_name B
+声 E-song_name E
+PlayMusic
+
+侧 B-song_name B
+脸 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+一 B-song_name B
+生 I-song_name E
+有 I-song_name B
+你 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+， O B
+不 B-song_name B
+要 I-song_name E
+说 I-song_name B
+话 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+张 B-singer_name B
+靓 I-singer_name I
+颖 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+请 O B
+播 O B
+放 O E
+黑 B-movie_name B
+猫 I-movie_name E
+警 I-movie_name B
+长 E-movie_name E
+PlayMusic
+
+你 O B
+可 O B
+以 O E
+给 O B
+我 O B
+听 O B
+一 O B
+首 O E
+江 B-song_name B
+南 I-song_name I
+s I-song_name I
+t I-song_name I
+y I-song_name I
+l I-song_name I
+e E-song_name E
+吗 O B
+？ O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+毛 B-singer_name B
+华 I-singer_name I
+锋 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+害 O B
+我 O B
+想 O B
+唱 O B
+每 B-song_name B
+当 I-song_name E
+我 I-song_name B
+走 I-song_name B
+过 I-song_name E
+老 I-song_name B
+师 I-song_name E
+的 I-song_name B
+窗 I-song_name B
+前 E-song_name E
+。 O B
+Sing
+
+想 O B
+听 O B
+多 B-song_name B
+想 I-song_name B
+做 I-song_name B
+你 I-song_name B
+最 I-song_name B
+爱 I-song_name B
+的 I-song_name B
+人 E-song_name B
+。 O B
+PlayMusic
+
+陈 B-singer_name B
+奕 I-singer_name I
+迅 E-singer_name E
+的 O B
+歌 O B
+！ O B
+PlayMusic
+
+帮 O B
+我 O B
+搜 O B
+索 O E
+老 B-song_name B
+婆 I-song_name E
+最 I-song_name B
+大 E-song_name E
+的 O B
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+九 B-song_name B
+月 I-song_name I
+九 I-song_name E
+的 I-song_name B
+酒 E-song_name B
+PlayMusic
+
+同 B-song_name B
+桌 I-song_name E
+的 I-song_name B
+你 E-song_name B
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+当 S-song_name B
+。 O B
+PlayMusic
+
+给 O B
+我 O B
+放 O B
+一 O B
+首 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+十 B-song_name B
+七 I-song_name I
+岁 I-song_name E
+的 I-song_name B
+雨 I-song_name B
+季 E-song_name E
+。 O B
+PlayMusic
+
+睡 B-song_type B
+前 E-song_type E
+歌 O B
+曲 O E
+PlayMusic
+
+晚 B-date B
+上 E-date E
+会 O B
+下 O B
+雨 O E
+吗 O B
+GetWeather
+
+听 O B
+杨 B-singer_name B
+博 E-singer_name E
+。 O B
+PlayMusic
+
+你 O B
+会 O B
+唱 O B
+薛 B-singer_name B
+之 I-singer_name I
+谦 E-singer_name E
+吗 O B
+PlayMusic
+
+播 O B
+放 O E
+林 B-singer_name B
+忆 I-singer_name I
+莲 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+儿 B-song_type B
+歌 E-song_type E
+数 B-song_name B
+鸭 I-song_name B
+子 E-song_name E
+PlayMusic
+
+我 B-song_name B
+的 I-song_name B
+将 I-song_name B
+军 I-song_name E
+啊 E-song_name B
+PlayMusic
+
+继 O B
+续 O E
+播 O B
+放 O E
+米 B-story_tag B
+多 I-story_tag B
+兔 E-story_tag B
+ControlSystem
+
+唱 O B
+音 O B
+乐 O E
+， O B
+妈 B-song_type B
+妈 E-song_type E
+， O B
+啊 O B
+， O B
+嗯 O B
+。 O B
+PlayMusic
+
+蜗 B-song_name B
+牛 I-song_name E
+与 I-song_name B
+黄 I-song_name B
+鹂 I-song_name E
+鸟 E-song_name B
+。 O B
+PlayMusic
+
+拥 B-song_name B
+抱 I-song_name E
+你 I-song_name B
+离 I-song_name B
+去 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O E
+听 O B
+桂 B-singer_name E
+莹 I-singer_name B
+莹 E-singer_name E
+的 O B
+香 B-song_name B
+水 I-song_name E
+有 I-song_name B
+毒 E-song_name E
+PlayMusic
+
+王 B-singer_name B
+俊 I-singer_name I
+凯 E-singer_name E
+的 O B
+歌 O B
+唱 O E
+一 O B
+首 O E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+, O B
+温 B-song_type B
+柔 E-song_type E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+百 B-poem_name B
+家 I-poem_name I
+姓 E-poem_name E
+PlayPoem
+
+我 O B
+想 O B
+听 O B
+贝 B-singer_name B
+多 I-singer_name I
+芬 E-singer_name E
+的 O B
+月 B-song_name B
+光 I-song_name E
+奏 I-song_name B
+鸣 I-song_name I
+曲 E-song_name E
+PlayMusic
+
+你 O B
+会 O B
+唱 O B
+小 B-song_name B
+酒 I-song_name B
+窝 E-song_name E
+吗 O B
+？ O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+护 B-song_name B
+花 I-song_name I
+使 I-song_name I
+者 E-song_name E
+PlayMusic
+
+我 O B
+订 O E
+晚 B-date B
+上 I-date E
+九 I-date B
+点 E-date E
+的 O B
+闹 O B
+钟 O E
+啊 O B
+Remind
+
+金 B-song_name B
+色 I-song_name E
+童 I-song_name B
+年 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+快 B-song_name B
+乐 I-song_name E
+环 I-song_name B
+岛 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+我 B-song_name B
+和 I-song_name B
+你 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+想 O B
+听 O B
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+晴 B-song_name B
+天 E-song_name E
+PlayMusic
+
+我 O B
+想 O E
+听 O B
+侧 B-song_name E
+脸 E-song_name B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+蛋 B-singer_name B
+堡 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+倍 B-song_name B
+儿 I-song_name E
+爽 E-song_name B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+# O B
+# O E
+小 B-singer_name B
+虎 I-singer_name I
+队 E-singer_name E
+的 O B
+# O B
+爱 S-song_name B
+PlayMusic
+
+音 O B
+乐 O E
+一 B-song_name B
+个 I-song_name E
+人 E-song_name B
+。 O B
+PlayMusic
+
+请 O B
+播 O B
+放 O E
+流 B-song_type B
+行 E-song_type I
+歌 O I
+曲 O E
+PlayMusic
+
+唱 O B
+我 B-song_name B
+好 I-song_name B
+想 I-song_name I
+你 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+韩 B-singer_name B
+红 E-singer_name E
+的 O B
+千 B-song_name B
+年 I-song_name E
+之 I-song_name B
+约 E-song_name E
+。 O B
+PlayMusic
+
+听 O B
+黄 B-singer_name B
+家 I-singer_name I
+驹 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+嘴 B-song_name B
+巴 I-song_name E
+嘟 I-song_name B
+嘟 E-song_name E
+PlayMusic
+
+唱 O B
+首 O E
+夏 B-song_name B
+洛 I-song_name I
+特 I-song_name E
+烦 I-song_name B
+恼 E-song_name E
+PlayMusic
+
+唱 O B
+大 B-song_name E
+梦 I-song_name B
+想 I-song_name I
+家 E-song_name E
+吧 O B
+！ O B
+PlayMusic
+
+海 B-story_name B
+贼 I-story_name I
+王 E-story_name E
+PlayFMStory
+
+播 O B
+放 O I
+歌 O I
+曲 O E
+模 B-song_name B
+特 E-song_name E
+。 O B
+PlayMusic
+
+小 O B
+小 B-song_name E
+苹 I-song_name B
+果 E-song_name E
+PlayMusic
+
+唱 O B
+黄 B-song_type B
+梅 I-song_type I
+戏 E-song_type E
+PlayMusic
+
+客 O B
+厅 O E
+灯 O B
+打 O B
+开 O E
+ControlSystem
+
+唱 O B
+分 B-song_name B
+裂 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+海 B-song_name B
+草 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+给 B-song_name B
+我 I-song_name B
+一 I-song_name B
+杯 I-song_name E
+忘 I-song_name B
+情 I-song_name I
+水 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+小 O B
+欧 O E
+， O B
+请 O B
+帮 O B
+我 O B
+点 O E
+一 O B
+首 O E
+蒙 B-song_name B
+古 I-song_name I
+人 E-song_name E
+， O B
+这 O B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+爸 B-album_name B
+爸 I-album_name E
+去 I-album_name B
+哪 I-album_name B
+儿 E-album_name E
+？ O B
+PlayMusic
+
+播 O B
+放 O I
+歌 O I
+曲 O E
+医 B-song_name B
+院 I-song_name E
+人 E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+适 O B
+合 O E
+在 O B
+路 B-song_type B
+上 E-song_type E
+的 O B
+歌 O B
+PlayMusic
+
+茉 B-song_name B
+莉 I-song_name I
+花 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+读 B-song_name B
+书 I-song_name E
+郎 E-song_name B
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+演 B-song_name B
+员 E-song_name E
+这 O B
+首 O B
+歌 O E
+PlayMusic
+
+搜 O B
+索 O E
+， O B
+歌 O B
+曲 O E
+刚 B-song_name B
+好 I-song_name E
+遇 I-song_name B
+见 I-song_name E
+你 E-song_name B
+。 O B
+PlayMusic
+
+想 O B
+听 O B
+菠 B-song_name B
+萝 I-song_name E
+菠 I-song_name B
+萝 I-song_name I
+蜜 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+你 O B
+给 O B
+我 O B
+放 O B
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+听 O B
+。 O B
+PlayMusic
+
+我 O B
+叫 O B
+小 O B
+美 O E
+Chat
+
+播 O B
+放 O E
+朴 B-singer_name B
+树 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+那 O B
+你 O B
+打 O B
+个 O E
+， O B
+孤 B-song_name B
+独 E-song_name E
+给 O B
+我 O B
+听 O B
+。 O B
+Chat
+
+汪 B-singer_name B
+峰 E-singer_name E
+的 O B
+歌 O B
+曲 O E
+， O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+周 B-singer_name B
+笔 I-singer_name I
+畅 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+搜 O B
+索 O E
+歌 O B
+曲 O E
+刚 B-song_name B
+好 I-song_name E
+遇 I-song_name B
+见 I-song_name E
+你 E-song_name B
+。 O B
+PlayMusic
+
+你 O B
+会 O B
+唱 O B
+林 B-singer_name B
+俊 I-singer_name I
+杰 E-singer_name E
+的 O B
+可 B-song_name B
+惜 I-song_name E
+没 I-song_name B
+如 I-song_name B
+果 E-song_name E
+吗 O B
+PlayMusic
+
+换 O B
+一 O B
+首 O E
+陈 B-singer_name B
+奕 I-singer_name I
+迅 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+你 O B
+会 O E
+唱 O B
+九 B-song_name I
+妹 E-song_name E
+吗 O B
+？ O B
+PlayMusic
+
+我 O B
+在 O B
+听 O B
+平 B-song_name B
+凡 I-song_name E
+之 I-song_name B
+路 E-song_name B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+背 B-song_name B
+对 I-song_name I
+背 I-song_name E
+拥 I-song_name B
+抱 E-song_name E
+这 O B
+首 O B
+歌 O E
+PlayMusic
+
+河 B-news_tag B
+南 E-news_tag E
+新 O B
+闻 O E
+GetNews
+
+给 O B
+我 O B
+唱 O B
+一 O B
+首 O E
+巴 B-album_name B
+巴 I-album_name I
+爸 I-album_name I
+爸 E-album_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+流 B-song_type B
+行 I-song_type I
+音 I-song_type I
+乐 E-song_type E
+。 O B
+PlayMusic
+
+谢 O B
+谢 O E
+放 O B
+一 O B
+首 O E
+牡 B-song_name B
+丹 I-song_name E
+之 I-song_name B
+歌 E-song_name E
+吧 O B
+！ O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+数 B-song_name B
+鸭 I-song_name B
+子 E-song_name E
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+t B-singer_name B
+f I-singer_name I
+b I-singer_name I
+o I-singer_name I
+y I-singer_name I
+s E-singer_name E
+的 O B
+N B-song_name B
+B I-song_name I
+A E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+圆 B-song_name B
+周 I-song_name I
+率 E-song_name E
+这 O B
+首 O B
+歌 O I
+曲 O E
+。 O B
+PlayMusic
+
+拿 O B
+回 O B
+了 O B
+， O B
+我 O B
+想 O B
+听 O B
+， O B
+忘 B-song_name B
+情 I-song_name I
+水 E-song_name E
+。 O B
+PlayMusic
+
+来 O B
+首 O E
+《 O B
+演 B-song_name B
+员 E-song_name E
+》 O B
+PlayMusic
+
+失 B-song_type B
+眠 E-song_type E
+时 O B
+候 O E
+听 O B
+的 O B
+。 O B
+PlayMusic
+
+空 B-song_name B
+空 I-song_name I
+如 I-song_name I
+也 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+宝 B-story_name B
+宝 I-story_name E
+巴 I-story_name B
+士 E-story_name E
+睡 B-story_tag B
+前 E-story_tag E
+故 O B
+事 O E
+PlayFMStory
+
+我 O B
+想 O B
+听 O B
+和 B-song_name B
+你 I-song_name B
+一 I-song_name B
+样 E-song_name E
+这 O B
+首 O B
+歌 O I
+曲 O E
+。 O B
+PlayMusic
+
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+甜 B-song_name B
+甜 I-song_name I
+的 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+卖 B-song_name B
+报 I-song_name E
+歌 E-song_name B
+。 O B
+PlayMusic
+
+你 O B
+帮 O B
+我 O B
+点 O E
+首 O B
+歌 O E
+， O B
+我 B-song_name B
+爱 I-song_name I
+你 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+听 O E
+， O B
+嘿 B-song_name B
+嘿 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+李 B-singer_name B
+荣 I-singer_name I
+浩 E-singer_name E
+的 O B
+年 B-song_name B
+少 I-song_name B
+有 I-song_name E
+为 E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+第 B-song_name B
+八 I-song_name E
+套 I-song_name B
+广 I-song_name B
+播 I-song_name I
+体 I-song_name I
+操 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+音 O B
+乐 O E
+老 B-song_name B
+婆 I-song_name E
+老 I-song_name B
+婆 I-song_name E
+我 I-song_name B
+爱 I-song_name I
+你 E-song_name E
+！ O B
+PlayMusic
+
+播 O B
+放 O E
+Б B-singer_name B
+а I-singer_name B
+м I-singer_name B
+б I-singer_name B
+и I-singer_name B
+н I-singer_name B
+т I-singer_name B
+о I-singer_name B
+н E-singer_name B
+的 O B
+З B-song_name B
+а I-song_name B
+я E-song_name B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+夜 B-song_name B
+空 I-song_name E
+中 I-song_name B
+最 I-song_name B
+亮 I-song_name E
+的 I-song_name B
+星 E-song_name B
+。 O B
+PlayMusic
+
+来 O B
+首 O E
+爱 B-song_name B
+之 I-song_name I
+光 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+萌 B-song_name B
+萌 I-song_name E
+的 I-song_name B
+乖 I-song_name B
+乖 I-song_name E
+的 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+放 O B
+黑 B-singer_name I
+龙 E-singer_name E
+的 O B
+三 B-song_name B
+十 I-song_name I
+八 I-song_name E
+度 I-song_name B
+六 E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+任 B-singer_name E
+然 E-singer_name B
+的 O B
+空 B-song_name B
+空 I-song_name I
+如 I-song_name I
+也 E-song_name E
+PlayMusic
+
+邓 B-singer_name B
+紫 I-singer_name I
+棋 E-singer_name E
+光 B-song_name B
+年 I-song_name E
+之 I-song_name B
+外 E-song_name E
+PlayMusic
+
+小 O B
+o O B
+o O E
+， O B
+我 O B
+想 O B
+听 O B
+宠 B-song_name B
+爱 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+可 B-song_name B
+以 E-song_name E
+PlayMusic
+
+请 O B
+播 O B
+放 O E
+我 B-song_name B
+们 I-song_name E
+不 I-song_name B
+一 I-song_name B
+样 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+精 B-song_name B
+忠 I-song_name I
+报 I-song_name I
+国 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+放 O B
+个 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+的 O B
+歌 O B
+啊 O B
+PlayMusic
+
+播 O B
+放 O E
+睡 B-story_name B
+前 I-story_name E
+西 I-story_name B
+游 E-story_name E
+PlayFMStory
+
+我 O B
+要 O E
+听 O B
+绿 B-song_name B
+光 E-song_name E
+， O B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+相 B-song_name B
+信 I-song_name E
+自 I-song_name B
+己 E-song_name E
+歌 O B
+曲 O E
+PlayMusic
+
+唱 O B
+摇 B-song_type B
+篮 I-song_type I
+曲 E-song_type E
+我 O B
+听 O B
+PlayMusic
+
+你 O B
+好 O E
+请 O B
+说 O B
+个 O B
+郭 B-crosstalk_name B
+德 I-crosstalk_name I
+纲 E-crosstalk_name E
+相 O B
+声 O E
+PlayFMCrosstalk
+
+我 O B
+要 O E
+听 O B
+李 B-song_name B
+白 E-song_name E
+。 O B
+PlayMusic
+
+帮 O B
+我 O B
+刷 O B
+一 O B
+首 O E
+， O B
+7 B-song_name B
+月 I-song_name B
+上 E-song_name B
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+天 O B
+空 O E
+啊 O B
+， O B
+生 B-song_name B
+日 I-song_name I
+快 I-song_name I
+乐 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+路 B-song_name B
+在 I-song_name I
+何 I-song_name I
+方 E-song_name E
+？ O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+深 B-song_name B
+海 I-song_name E
+少 I-song_name B
+女 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+加 B-story_name B
+油 I-story_name E
+妈 I-story_name B
+妈 E-story_name E
+PlayFMStory
+
+我 O B
+想 O B
+听 O B
+梁 B-singer_name B
+梁 E-singer_name I
+志 O E
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+小 O B
+欧 O E
+， O B
+我 O B
+想 O B
+听 O B
+黑 B-song_name B
+猫 I-song_name E
+警 I-song_name B
+长 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+执 B-song_name B
+念 E-song_name E
+。 O B
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+僵 B-song_name B
+尸 I-song_name E
+歌 E-song_name B
+PlayMusic
+
+明 B-date B
+天 I-date E
+七 I-date B
+点 I-date E
+半 E-date B
+叫 O E
+我 O B
+起 B-event B
+床 E-event E
+Remind
+
+来 O B
+首 O B
+张 B-singer_name E
+杰 E-singer_name B
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+林 B-singer_name B
+俊 I-singer_name I
+杰 E-singer_name E
+的 O B
+你 B-song_name B
+要 I-song_name B
+的 I-song_name B
+不 I-song_name B
+是 I-song_name E
+我 E-song_name B
+PlayMusic
+
+h B-song_name B
+i I-song_name I
+g I-song_name I
+h I-song_name E
+歌 E-song_name B
+Q O B
+Q O E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+三 B-fiction_name B
+国 I-fiction_name I
+演 I-fiction_name I
+义 E-fiction_name E
+PlayFMFiction
+
+唱 O B
+儿 B-song_type B
+歌 E-song_type E
+数 B-song_name B
+鸭 I-song_name B
+子 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+陈 B-singer_name B
+奕 I-singer_name I
+迅 E-singer_name E
+的 O B
+富 B-song_name B
+士 I-song_name I
+山 I-song_name E
+下 E-song_name B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+宠 B-song_name B
+爱 E-song_name E
+。 O B
+PlayMusic
+
+放 O B
+个 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+的 O B
+歌 O B
+PlayMusic
+
+宁 B-location B
+波 E-location E
+天 O B
+气 O E
+GetWeather
+
+今 B-date B
+天 E-date E
+的 O B
+温 O B
+度 O E
+是 O B
+多 O B
+少 O E
+GetWeather
+
+我 O B
+想 O B
+听 O B
+以 B-song_name B
+后 I-song_name E
+的 I-song_name B
+以 I-song_name B
+后 E-song_name E
+。 O B
+PlayMusic
+
+放 O B
+些 O E
+纯 B-song_type B
+音 I-song_type I
+乐 E-song_type E
+PlayMusic
+
+幸 B-song_name B
+福 I-song_name E
+拍 I-song_name B
+手 I-song_name I
+歌 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+一 B-story_name B
+年 I-story_name I
+级 I-story_name E
+的 I-story_name B
+小 I-story_name B
+豌 I-story_name B
+豆 E-story_name E
+PlayFMStory
+
+来 O B
+一 O B
+首 O E
+三 B-song_name B
+个 I-song_name E
+和 I-song_name B
+尚 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+你 B-song_name B
+的 I-song_name B
+嘴 E-song_name B
+。 O B
+PlayMusic
+
+啊 O B
+， O B
+唱 O B
+首 O I
+歌 O E
+， O B
+世 B-song_name B
+上 I-song_name E
+只 I-song_name B
+有 I-song_name E
+妈 I-song_name B
+妈 I-song_name E
+好 E-song_name B
+。 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+摇 B-song_type B
+滚 E-song_type E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+歌 O I
+曲 O E
+隐 B-song_name B
+形 I-song_name E
+的 I-song_name B
+翅 I-song_name B
+膀 E-song_name E
+。 O B
+PlayMusic
+
+谢 B-singer_name B
+安 I-singer_name I
+琪 E-singer_name E
+的 O B
+钟 B-song_name B
+无 I-song_name I
+艳 E-song_name E
+PlayMusic
+
+安 O B
+全 O E
+我 O B
+要 O E
+听 O B
+复 B-song_name B
+活 E-song_name E
+。 O B
+PlayMusic
+
+早 B-date B
+上 I-date E
+七 I-date B
+点 E-date E
+叫 O B
+我 O B
+起 B-event B
+床 E-event E
+Remind
+
+讲 O B
+灰 B-story_name B
+姑 I-story_name I
+娘 E-story_name E
+的 O B
+故 O B
+事 O E
+PlayFMStory
+
+我 O B
+要 O E
+听 O B
+网 B-song_type B
+络 E-song_type E
+歌 O B
+曲 O E
+PlayMusic
+
+不 O B
+用 O E
+换 O B
+一 O B
+次 O E
+唱 O B
+, O B
+世 B-song_name B
+上 I-song_name E
+只 I-song_name B
+有 I-song_name E
+妈 I-song_name B
+妈 I-song_name E
+好 E-song_name B
+。 O B
+PlayMusic
+
+传 B-song_name B
+说 E-song_name E
+PlayMusic
+
+帮 O B
+我 O B
+来 O B
+个 O B
+汪 B-singer_name B
+峰 E-singer_name E
+的 O B
+歌 O B
+曲 O E
+PlayMusic
+
+唱 O B
+个 O E
+五 B-singer_name B
+月 I-singer_name I
+天 E-singer_name E
+PlayMusic
+
+唱 O B
+首 O E
+山 B-song_name B
+路 I-song_name E
+十 I-song_name B
+八 I-song_name I
+弯 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+为 B-song_name B
+梦 I-song_name B
+想 I-song_name E
+时 I-song_name B
+刻 I-song_name E
+准 I-song_name B
+备 I-song_name E
+着 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+来 O B
+首 O E
+伤 B-song_type B
+感 E-song_type E
+点 O B
+的 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+阳 B-song_name B
+光 I-song_name E
+总 I-song_name B
+在 I-song_name E
+风 I-song_name B
+雨 I-song_name E
+后 E-song_name B
+。 O B
+PlayMusic
+
+我 O B
+爱 O B
+听 O B
+二 B-song_name B
+十 I-song_name I
+岁 I-song_name E
+的 I-song_name B
+某 I-song_name B
+一 I-song_name B
+天 E-song_name E
+。 O B
+PlayMusic
+
+二 B-song_type B
+胡 E-song_type E
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+新 B-song_name B
+年 I-song_name I
+快 I-song_name I
+乐 E-song_name E
+PlayMusic
+
+唱 O B
+个 O E
+小 B-song_name B
+白 I-song_name B
+杨 E-song_name E
+。 O B
+PlayMusic
+
+给 O B
+我 O I
+发 O E
+个 O B
+催 B-song_type B
+眠 I-song_type I
+曲 E-song_type E
+PlayMusic
+
+点 O B
+一 O B
+首 O E
+月 B-song_name B
+光 I-song_name E
+下 I-song_name B
+的 I-song_name B
+凤 I-song_name B
+尾 I-song_name I
+竹 E-song_name E
+PlayMusic
+
+看 O B
+哪 O B
+， O B
+唱 O B
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+放 O B
+个 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+啊 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+双 B-song_name B
+节 I-song_name I
+棍 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+你 B-song_name B
+打 I-song_name B
+不 I-song_name B
+过 I-song_name E
+我 I-song_name B
+吧 E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+小 B-song_name B
+毛 I-song_name I
+驴 E-song_name E
+歌 O B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+凤 B-singer_name B
+凰 I-singer_name E
+传 I-singer_name B
+奇 E-singer_name E
+的 O B
+歌 O B
+曲 O E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+我 B-song_name B
+的 I-song_name B
+好 I-song_name B
+妈 I-song_name B
+妈 E-song_name E
+这 O B
+首 O B
+歌 O I
+曲 O E
+。 O B
+PlayMusic
+
+杀 B-song_name B
+猪 I-song_name I
+刀 E-song_name E
+PlayMusic
+
+杭 B-location B
+州 E-location E
+未 B-date B
+来 I-date E
+十 I-date B
+四 I-date I
+天 E-date E
+的 O B
+天 O B
+气 O E
+怎 O B
+么 O I
+样 O E
+GetWeather
+
+怅 O B
+然 O I
+若 O I
+失 O E
+， O B
+播 O B
+放 O E
+孩 B-song_name B
+子 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+列 B-story_name E
+那 I-story_name B
+狐 I-story_name E
+的 I-story_name B
+故 I-story_name B
+事 E-story_name E
+PlayFMStory
+
+播 O B
+放 O E
+张 B-singer_name B
+勇 I-singer_name B
+健 E-singer_name E
+PlayMusic
+
+给 O B
+我 O B
+们 O E
+来 O B
+一 O B
+首 O E
+小 B-song_name B
+邋 I-song_name B
+遢 E-song_name E
+。 O B
+PlayMusic
+
+给 O B
+我 O B
+放 O B
+首 O E
+英 B-song_type B
+文 E-song_type I
+歌 O E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+单 B-song_name B
+身 I-song_name I
+情 I-song_name I
+歌 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+寂 B-song_name B
+寞 I-song_name E
+的 I-song_name B
+人 I-song_name B
+唱 I-song_name B
+着 I-song_name B
+伤 I-song_name B
+心 I-song_name E
+的 I-song_name B
+歌 E-song_name B
+。 O B
+PlayMusic
+
+讲 O B
+个 O E
+岳 B-crosstalk_name B
+云 I-crosstalk_name I
+鹏 E-crosstalk_name E
+的 O B
+相 O B
+声 O E
+PlayFMCrosstalk
+
+t B-singer_name B
+f I-singer_name I
+b I-singer_name I
+o I-singer_name I
+y I-singer_name I
+s E-singer_name E
+歌 O B
+。 O B
+PlayMusic
+
+来 O B
+段 O B
+子 O E
+， O B
+就 O B
+甜 B-song_name B
+蜜 I-song_name I
+蜜 E-song_name E
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+黑 B-movie_name B
+猫 I-movie_name E
+警 I-movie_name B
+长 E-movie_name E
+的 O B
+歌 O B
+PlayMusic
+
+回 B-singer_name B
+音 I-singer_name E
+哥 E-singer_name B
+唱 O E
+的 O B
+PlayMusic
+
+心 B-song_name B
+太 I-song_name B
+软 E-song_name E
+歌 O B
+曲 O E
+PlayMusic
+
+牧 B-song_name B
+马 I-song_name E
+城 I-song_name B
+市 E-song_name E
+PlayMusic
+
+帮 O B
+我 O B
+定 O E
+一 O B
+个 O E
+八 B-date B
+点 I-date E
+四 I-date B
+十 I-date I
+九 I-date E
+分 E-date B
+的 O B
+闹 O B
+钟 O E
+Remind
+
+朋 B-song_name B
+友 I-song_name E
+的 I-song_name B
+心 E-song_name B
+， O B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+嗯 O B
+， O B
+我 O B
+要 O E
+听 O B
+勋 B-song_name B
+章 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+美 B-fiction_name B
+人 I-fiction_name I
+鱼 E-fiction_name E
+PlayFMFiction
+
+我 O B
+想 O B
+听 O B
+燃 B-song_name B
+烧 I-song_name E
+我 I-song_name B
+的 I-song_name B
+卡 I-song_name B
+路 I-song_name I
+里 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+生 B-song_name B
+日 I-song_name E
+甜 I-song_name B
+蜜 E-song_name E
+m O B
+e O E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+侏 B-movie_name B
+罗 I-movie_name I
+纪 I-movie_name E
+世 I-movie_name B
+界 E-movie_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+许 B-singer_name B
+嵩 E-singer_name E
+; O B
+黄 B-singer_name B
+龄 E-singer_name E
+的 O B
+惊 B-song_name B
+鸿 I-song_name E
+一 I-song_name B
+面 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+好 B-song_name B
+运 I-song_name I
+来 E-song_name E
+PlayMusic
+
+小 O B
+冰 O I
+唱 O E
+一 O B
+首 O E
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+唱 O B
+首 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+吧 O B
+！ O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+巴 B-story_name B
+巴 I-story_name I
+爸 I-story_name I
+爸 E-story_name E
+的 O B
+故 O B
+事 O E
+PlayFMStory
+
+我 O B
+要 O E
+听 O B
+一 O B
+首 O I
+歌 O E
+， O B
+好 B-song_name B
+兄 I-song_name B
+弟 E-song_name E
+。 O B
+PlayMusic
+
+妈 B-song_name B
+咪 I-song_name E
+宝 I-song_name B
+贝 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+匆 B-song_name B
+匆 I-song_name E
+那 I-song_name B
+年 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+神 B-song_name B
+经 I-song_name I
+病 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+王 B-singer_name B
+绎 I-singer_name I
+龙 E-singer_name E
+的 O B
+新 B-song_name B
+年 I-song_name E
+财 I-song_name B
+运 I-song_name E
+到 E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+梦 B-song_name B
+想 I-song_name I
+家 E-song_name E
+。 O B
+PlayMusic
+
+给 O B
+我 O B
+放 O B
+一 O B
+首 O E
+丑 B-song_name B
+八 I-song_name I
+怪 E-song_name E
+吧 O B
+！ O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+s B-song_name B
+e I-song_name I
+v I-song_name I
+e E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+齐 B-singer_name B
+秦 E-singer_name B
+的 O B
+歌 O B
+PlayMusic
+
+帮 O B
+我 O B
+播 O B
+放 O E
+巅 B-list B
+峰 I-list E
+榜 I-list B
+港 I-list B
+台 E-list E
+PlayMusic
+
+唱 O B
+咖 B-song_name B
+喱 I-song_name E
+咖 I-song_name B
+喱 E-song_name E
+PlayMusic
+
+神 B-song_name B
+经 I-song_name I
+病 E-song_name E
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+唱 O B
+首 O E
+孙 B-singer_name B
+燕 I-singer_name I
+姿 E-singer_name E
+的 O B
+吧 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+蓝 B-song_name B
+精 I-song_name I
+灵 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+不 O B
+是 O E
+你 O B
+放 O B
+的 O B
+歌 O B
+Chat
+
+我 O B
+想 O B
+听 O B
+读 B-song_name B
+者 E-song_name E
+PlayMusic
+
+林 B-singer_name B
+俊 I-singer_name I
+杰 E-singer_name E
+PlayMusic
+
+提 B-song_type B
+醒 E-song_type E
+音 O B
+乐 O E
+PlayMusic
+
+绿 B-song_name B
+岛 I-song_name E
+小 I-song_name B
+夜 I-song_name I
+曲 E-song_name E
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+沙 B-song_name B
+漠 I-song_name E
+骆 I-song_name B
+驼 E-song_name E
+。 O B
+PlayMusic
+
+嘿 O B
+嘿 O E
+明 B-date B
+天 E-date E
+几 O B
+度 O E
+呀 O B
+GetWeather
+
+刘 B-singer_name B
+涛 E-singer_name E
+唱 O B
+的 O B
+PlayMusic
+
+播 O B
+放 O E
+梁 B-song_name B
+祝 E-song_name E
+PlayMusic
+
+深 B-location B
+圳 E-location E
+天 O B
+气 O E
+怎 O B
+么 O I
+样 O E
+GetWeather
+
+夜 O B
+～ O B
+夜 O B
+～ O B
+夜 B-song_name B
+夜 I-song_name E
+笙 I-song_name B
+歌 E-song_name E
+Chat
+
+你 B-song_name B
+和 I-song_name B
+我 E-song_name B
+PlayMusic
+
+遥 B-song_name B
+远 I-song_name E
+的 I-song_name B
+她 E-song_name B
+歌 O B
+词 O E
+PlayMusic
+
+播 O B
+放 O E
+祁 B-singer_name B
+隆 E-singer_name E
+的 O B
+我 B-song_name B
+的 I-song_name B
+老 I-song_name B
+家 E-song_name E
+PlayMusic
+
+断 B-song_name B
+点 E-song_name E
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+流 B-song_type B
+行 E-song_type I
+歌 O I
+曲 O E
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+鼓 B-song_name B
+楼 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+射 B-story_name B
+雕 I-story_name E
+英 I-story_name B
+雄 I-story_name I
+传 E-story_name E
+的 O B
+故 O B
+事 O E
+PlayFMStory
+
+来 O B
+一 O B
+首 O E
+慢 B-song_type B
+摇 E-song_type E
+PlayMusic
+
+搜 O B
+索 O E
+歌 O B
+曲 O E
+爱 B-song_name B
+出 I-song_name B
+发 E-song_name E
+。 O B
+PlayMusic
+
+如 B-song_name B
+果 I-song_name E
+再 I-song_name B
+回 I-song_name B
+到 I-song_name E
+从 I-song_name B
+前 E-song_name E
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+放 O B
+成 B-story_tag B
+语 E-story_tag I
+故 O I
+事 O E
+PlayFMStory
+
+音 O B
+乐 O E
+拥 B-song_name B
+抱 I-song_name I
+着 I-song_name E
+你 I-song_name B
+的 I-song_name B
+滋 I-song_name B
+味 E-song_name E
+PlayMusic
+
+舞 B-song_name B
+女 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+十 B-story_name B
+万 I-story_name I
+个 I-story_name E
+为 I-story_name B
+什 I-story_name I
+么 E-story_name E
+PlayFMStory
+
+你 O B
+好 O E
+帮 O B
+我 O B
+播 O B
+放 O E
+追 B-song_name B
+梦 I-song_name E
+赤 I-song_name B
+子 I-song_name I
+心 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+说 B-song_name B
+句 I-song_name E
+心 I-song_name B
+里 I-song_name I
+话 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+龚 S-singer_name B
+? O B
+的 O B
+轮 B-song_name B
+回 E-song_name E
+PlayMusic
+
+想 O B
+听 O B
+雪 B-song_name B
+花 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+红 B-fiction_name B
+楼 I-fiction_name I
+梦 E-fiction_name E
+PlayFMFiction
+
+我 O B
+要 O E
+听 O B
+可 B-song_name B
+爱 I-song_name E
+的 I-song_name B
+麻 I-song_name B
+雀 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+听 O E
+冷 B-song_name B
+雨 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+孙 B-singer_name B
+燕 I-singer_name I
+姿 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+但 O B
+唱 O B
+山 B-song_type I
+歌 E-song_type E
+。 O B
+PlayMusic
+
+播 O B
+放 O I
+歌 O I
+曲 O E
+， O B
+中 B-song_name B
+国 I-song_name E
+梦 E-song_name B
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+小 B-song_name B
+手 I-song_name E
+拍 I-song_name B
+拍 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+画 B-song_name B
+心 E-song_name E
+。 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+陷 B-song_name B
+阱 E-song_name E
+PlayMusic
+
+可 O B
+来 O E
+听 O B
+m B-song_name B
+e I-song_name E
+# I-song_name B
+t I-song_name B
+o I-song_name I
+o E-song_name E
+。 O B
+PlayMusic
+
+唱 O B
+个 O E
+演 B-song_name B
+员 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+音 B-movie_name B
+乐 I-movie_name E
+之 I-movie_name B
+声 E-movie_name E
+PlayMusic
+
+北 B-song_name B
+京 I-song_name E
+北 I-song_name B
+京 E-song_name E
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+春 B-song_name B
+泥 E-song_name E
+PlayMusic
+
+盛 B-song_name B
+夏 I-song_name E
+的 I-song_name B
+果 I-song_name B
+实 E-song_name E
+PlayMusic
+
+搜 O B
+索 O E
+d B-song_type B
+j I-song_type E
+歌 I-song_type B
+曲 E-song_type E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+胎 B-song_type B
+教 E-song_type E
+音 O B
+乐 O E
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+贝 B-song_name B
+加 I-song_name I
+尔 I-song_name I
+湖 I-song_name E
+畔 E-song_name B
+PlayMusic
+
+明 B-date B
+天 I-date E
+早 I-date B
+上 I-date E
+六 I-date B
+点 E-date E
+叫 O B
+我 O B
+起 B-event B
+床 E-event E
+Remind
+
+扫 O B
+地 O E
+Chat
+
+播 O B
+放 O E
+三 B-fiction_name B
+体 E-fiction_name E
+PlayFMFiction
+
+你 O B
+好 O E
+放 O B
+一 O B
+首 O E
+错 B-song_name B
+错 I-song_name E
+错 E-song_name B
+PlayMusic
+
+现 B-date B
+在 E-date E
+温 O B
+度 O E
+GetWeather
+
+播 O B
+放 O E
+一 O B
+首 O E
+小 B-singer_name B
+贱 E-singer_name E
+的 O B
+， O B
+多 B-song_name B
+喜 I-song_name B
+欢 I-song_name E
+你 E-song_name B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+薛 B-singer_name B
+明 I-singer_name I
+媛 E-singer_name E
+的 O B
+不 B-song_name B
+就 I-song_name B
+是 I-song_name E
+落 I-song_name B
+单 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+有 B-fiction_tag B
+声 E-fiction_tag E
+小 O B
+说 O E
+PlayFMFiction
+
+你 O B
+休 O B
+眠 O E
+ControlSystem
+
+唱 O B
+陈 B-singer_name B
+翔 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+今 B-song_name B
+生 I-song_name E
+遇 I-song_name B
+见 I-song_name E
+你 E-song_name B
+， O B
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+成 B-song_name B
+都 E-song_name E
+歌 O B
+曲 O E
+在 O B
+线 O I
+听 O E
+PlayMusic
+
+给 O B
+我 O B
+听 O B
+一 O B
+首 O E
+魔 B-song_name B
+法 I-song_name E
+城 I-song_name B
+堡 E-song_name E
+的 O B
+歌 O B
+吧 O B
+！ O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+恭 B-song_name B
+喜 I-song_name I
+发 I-song_name I
+财 E-song_name E
+PlayMusic
+
+念 B-song_name B
+念 E-song_name E
+PlayMusic
+
+搜 O B
+索 O E
+童 B-song_name B
+心 I-song_name E
+是 I-song_name B
+小 I-song_name B
+鸟 E-song_name E
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+， O B
+昨 B-song_name B
+夜 I-song_name E
+的 I-song_name B
+星 I-song_name B
+辰 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+王 B-singer_name B
+筝 E-singer_name E
+的 O B
+我 B-song_name B
+们 I-song_name E
+都 I-song_name B
+是 I-song_name B
+好 I-song_name B
+孩 I-song_name I
+子 E-song_name E
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+f B-song_name B
+a I-song_name I
+d I-song_name I
+e I-song_name I
+d E-song_name E
+PlayMusic
+
+唱 O B
+个 O E
+龚 B-singer_name B
+琳 I-singer_name B
+娜 E-singer_name E
+的 O B
+忐 B-song_name B
+忑 E-song_name E
+PlayMusic
+
+小 O B
+欧 O E
+， O B
+给 O B
+我 O B
+播 O B
+放 O E
+一 O B
+首 O E
+音 O B
+乐 O E
+名 O B
+字 O E
+叫 O B
+青 B-song_name B
+春 I-song_name E
+修 I-song_name B
+炼 I-song_name E
+手 I-song_name B
+册 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+猪 B-song_name B
+之 I-song_name I
+歌 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+伊 B-story_name B
+索 I-story_name E
+寓 I-story_name B
+言 E-story_name E
+PlayFMStory
+
+唱 O B
+流 B-song_type B
+行 I-song_type I
+歌 I-song_type I
+曲 E-song_type E
+。 O B
+PlayMusic
+
+刚 O B
+刚 O E
+想 O B
+听 O B
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+你 O B
+让 O B
+不 O B
+让 O E
+我 O B
+听 O B
+宠 B-song_name B
+爱 E-song_name E
+？ O B
+PlayMusic
+
+新 B-song_type B
+歌 E-song_type B
+PlayMusic
+
+偶 B-song_name B
+像 I-song_name E
+万 I-song_name B
+万 I-song_name I
+岁 E-song_name E
+歌 O B
+曲 O E
+PlayMusic
+
+请 O B
+播 O B
+放 O E
+黄 B-singer_name B
+家 I-singer_name I
+驹 E-singer_name E
+的 O B
+歌 O B
+曲 O E
+PlayMusic
+
+来 O B
+首 O E
+东 B-song_name B
+邪 I-song_name I
+西 I-song_name I
+毒 E-song_name E
+PlayMusic
+
+播 O B
+个 O E
+轻 B-song_type B
+音 I-song_type I
+乐 E-song_type E
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+刀 B-singer_name B
+郎 E-singer_name E
+的 O B
+m O B
+u O I
+s O I
+i O I
+c O E
+PlayMusic
+
+歌 O B
+曲 O E
+美 B-song_name B
+美 I-song_name E
+哒 E-song_name B
+。 O B
+PlayMusic
+
+明 B-date B
+天 E-date E
+延 B-location B
+吉 E-location E
+天 O B
+气 O E
+GetWeather
+
+我 O B
+要 O E
+听 O B
+玖 B-singer_name B
+月 I-singer_name B
+花 I-singer_name B
+儿 I-singer_name E
+与 I-singer_name B
+筝 E-singer_name B
+的 O B
+歌 O B
+PlayMusic
+
+唱 O B
+走 B-song_name B
+天 I-song_name B
+涯 E-song_name E
+。 O B
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+挚 B-song_name B
+爱 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+邓 B-singer_name B
+紫 I-singer_name I
+棋 E-singer_name E
+的 O B
+光 B-song_name B
+年 I-song_name E
+之 I-song_name B
+外 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+赵 B-singer_name B
+雷 E-singer_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+唱 O B
+莫 B-singer_name B
+文 I-singer_name I
+蔚 E-singer_name E
+的 O B
+吧 O B
+PlayMusic
+
+你 O B
+会 O B
+唱 O B
+红 B-song_name B
+星 I-song_name E
+歌 E-song_name B
+吗 O B
+？ O B
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+九 B-song_name B
+八 I-song_name E
+k E-song_name B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+忘 B-song_name B
+情 I-song_name I
+水 E-song_name E
+， O B
+这 O B
+首 O E
+了 O B
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+林 B-song_name B
+中 I-song_name I
+鸟 E-song_name E
+的 O B
+。 O B
+PlayMusic
+
+播 O B
+放 O I
+歌 O I
+曲 O E
+h B-song_name B
+e I-song_name I
+l I-song_name I
+l I-song_name I
+o E-song_name E
+。 O B
+PlayMusic
+
+明 B-date B
+天 I-date E
+早 I-date B
+上 I-date E
+六 I-date B
+点 I-date E
+二 I-date B
+十 E-date E
+叫 O B
+我 O B
+起 B-event B
+床 E-event E
+Remind
+
+该 O B
+给 O B
+我 O B
+听 O B
+萤 B-song_name B
+火 I-song_name I
+虫 E-song_name E
+吗 O B
+？ O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+站 B-song_name B
+台 E-song_name E
+。 O B
+PlayMusic
+
+你 O B
+会 O B
+唱 O B
+蔡 B-singer_name B
+依 I-singer_name I
+林 E-singer_name E
+的 O B
+歌 O B
+吗 O B
+？ O B
+PlayMusic
+
+贝 B-album_name B
+瓦 I-album_name E
+儿 I-album_name B
+歌 E-album_name E
+拔 B-song_name B
+萝 I-song_name I
+卜 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+简 B-singer_name B
+弘 I-singer_name E
+亦 E-singer_name B
+的 O B
+不 B-song_name B
+染 E-song_name E
+PlayMusic
+
+来 O B
+首 O E
+左 B-song_name B
+肩 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+走 B-song_name B
+马 E-song_name E
+PlayMusic
+
+那 O B
+好 O E
+播 O B
+放 O E
+北 B-song_name B
+京 I-song_name E
+欢 I-song_name B
+迎 I-song_name E
+你 E-song_name B
+PlayMusic
+
+黄 B-song_name B
+土 I-song_name E
+高 I-song_name B
+坡 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+演 B-song_name B
+员 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+国 B-song_name B
+士 I-song_name I
+无 I-song_name I
+双 I-song_name E
+韩 I-song_name B
+信 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+一 B-song_name B
+亿 I-song_name B
+个 I-song_name E
+伤 I-song_name B
+心 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+唱 O B
+首 O E
+杨 B-singer_name B
+丞 I-singer_name I
+琳 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+要 O E
+， O B
+听 O B
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+运 B-song_type B
+动 E-song_type E
+音 O B
+乐 O E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+陷 B-song_name B
+阱 E-song_name E
+PlayMusic
+
+毛 B-singer_name B
+不 I-singer_name B
+易 E-singer_name E
+消 B-song_name B
+愁 E-song_name E
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+许 B-singer_name B
+巍 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+忐 B-song_name B
+忑 E-song_name E
+， O B
+给 O B
+我 O B
+们 O E
+听 O B
+听 O E
+。 O B
+PlayMusic
+
+你 B-song_name B
+的 I-song_name B
+选 I-song_name B
+择 I-song_name E
+没 I-song_name B
+有 I-song_name E
+错 E-song_name B
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+请 O B
+播 O E
+卡 B-song_name B
+路 I-song_name I
+里 E-song_name E
+PlayMusic
+
+e B-singer_name B
+m I-singer_name I
+m I-singer_name I
+a E-singer_name E
+Chat
+
+我 O B
+要 O E
+听 O B
+一 O B
+首 O E
+小 B-song_name B
+冒 I-song_name B
+险 I-song_name I
+家 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+歌 O B
+曲 O E
+天 B-song_name B
+路 E-song_name B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+邓 B-singer_name B
+紫 I-singer_name I
+棋 E-singer_name E
+的 O B
+倒 B-song_name B
+数 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+独 B-song_name B
+行 I-song_name I
+侠 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+许 B-singer_name B
+嵩 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+我 B-song_name B
+的 I-song_name B
+声 I-song_name B
+音 E-song_name E
+。 O B
+PlayMusic
+
+听 O B
+书 O E
+PlayFMFiction
+
+我 O B
+要 O E
+听 O B
+剑 B-song_name I
+心 E-song_name E
+。 O B
+PlayMusic
+
+唱 O B
+老 B-song_name B
+司 I-song_name B
+机 I-song_name E
+带 I-song_name B
+带 I-song_name E
+我 E-song_name B
+PlayMusic
+
+听 O B
+我 B-song_name B
+们 E-song_name E
+的 O B
+。 O B
+PlayMusic
+
+今 B-date B
+天 E-date E
+上 B-location B
+海 E-location E
+的 O B
+天 O B
+气 O E
+怎 O B
+么 O I
+样 O E
+GetWeather
+
+我 O B
+要 O E
+听 O B
+l B-singer_name B
+e I-singer_name I
+m I-singer_name I
+o I-singer_name I
+n E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+漫 B-song_name B
+步 I-song_name E
+人 I-song_name B
+生 I-song_name I
+路 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+放 B-song_name B
+飞 I-song_name E
+梦 I-song_name B
+想 E-song_name E
+。 O B
+PlayMusic
+
+唱 B-singer_name B
+见 E-singer_name E
+河 B-singer_name B
+图 E-singer_name E
+PlayMusic
+
+给 O B
+我 O B
+讲 O B
+个 O E
+儿 B-story_tag B
+童 E-story_tag E
+故 O B
+事 O E
+PlayFMStory
+
+我 O B
+想 O B
+听 O B
+贝 B-album_name B
+瓦 I-album_name E
+儿 I-album_name B
+歌 E-album_name E
+PlayMusic
+
+播 O B
+放 O E
+来 B-song_name B
+吧 I-song_name B
+冠 I-song_name B
+军 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+男 B-song_name B
+神 E-song_name E
+这 O B
+首 O B
+歌 O I
+曲 O E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+阿 B-singer_name B
+悄 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+琅 B-album_name B
+琊 I-album_name B
+榜 E-album_name B
+主 B-song_type B
+题 I-song_type I
+曲 E-song_type E
+PlayMusic
+
+我 O B
+要 O E
+搜 O B
+索 O E
+歌 O B
+曲 O E
+， O B
+小 B-song_name B
+精 I-song_name I
+灵 E-song_name E
+。 O B
+PlayMusic
+
+你 O B
+给 O B
+我 O B
+挑 O B
+一 O B
+首 O E
+丢 B-song_name B
+手 I-song_name B
+绢 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+燃 B-song_name B
+烧 I-song_name E
+卡 I-song_name B
+路 I-song_name I
+里 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+琵 B-song_name B
+琶 I-song_name I
+行 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+火 B-album_name B
+火 I-album_name E
+兔 I-album_name B
+儿 I-album_name B
+歌 E-album_name E
+PlayMusic
+
+云 B-song_name B
+上 I-song_name E
+太 I-song_name B
+阳 E-song_name E
+歌 O B
+曲 O E
+PlayMusic
+
+花 B-album_name B
+千 I-album_name I
+骨 E-album_name E
+歌 O B
+曲 O E
+年 B-song_name B
+轮 E-song_name E
+。 O B
+PlayMusic
+
+你 O B
+好 O E
+给 O B
+我 O B
+们 O E
+说 O B
+一 O B
+下 O E
+今 B-date B
+天 E-date E
+的 O B
+天 O B
+气 O I
+情 O I
+况 O E
+GetWeather
+
+声 B-song_name B
+音 E-song_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+擦 B-song_name B
+皮 I-song_name I
+鞋 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+白 B-story_name B
+雪 I-story_name I
+公 I-story_name I
+主 E-story_name E
+PlayFMStory
+
+j B-singer_name B
+a I-singer_name I
+y E-singer_name E
+的 O B
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+安 B-song_name B
+眠 I-song_name E
+曲 E-song_name B
+。 O B
+PlayMusic
+
+听 O B
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+灰 B-story_name B
+姑 I-story_name I
+娘 E-story_name E
+PlayFMStory
+
+我 O B
+想 O B
+听 O B
+7 B-song_name B
+月 I-song_name B
+上 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+给 O B
+我 O B
+唱 O B
+首 O E
+喝 B-song_name B
+吧 E-song_name B
+PlayMusic
+
+搜 O B
+索 O E
+歌 O B
+曲 O E
+女 B-song_name B
+儿 I-song_name E
+情 E-song_name B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+彩 B-song_type I
+铃 E-song_type E
+。 O B
+PlayMusic
+
+周 B-singer_name B
+华 I-singer_name I
+健 E-singer_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+给 B-song_name B
+你 I-song_name B
+们 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+邂 B-song_name B
+逅 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+花 B-song_name B
+样 I-song_name I
+年 I-song_name I
+华 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+故 O B
+事 O E
+永 B-story_name B
+远 I-story_name E
+的 I-story_name B
+公 I-story_name B
+主 E-story_name E
+PlayFMStory
+
+你 O B
+会 O B
+唱 O B
+儿 B-song_type B
+歌 E-song_type E
+吗 O B
+？ O B
+PlayMusic
+
+播 O B
+放 O E
+张 B-singer_name B
+韶 I-singer_name I
+涵 E-singer_name E
+的 O B
+阿 B-song_name B
+刁 E-song_name B
+PlayMusic
+
+要 O B
+听 O B
+蝴 B-song_name B
+蝶 I-song_name E
+飞 E-song_name B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+水 B-song_name B
+手 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+小 B-song_name B
+姐 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+李 B-song_name B
+白 E-song_name E
+PlayMusic
+
+听 O B
+恶 B-song_name B
+人 E-song_name E
+Chat
+
+二 B-date B
+十 I-date I
+分 I-date I
+钟 I-date E
+后 E-date B
+停 O B
+止 O E
+播 O B
+放 O E
+ControlSystem
+
+社 B-song_name B
+会 I-song_name E
+摇 E-song_name B
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+唱 O B
+个 O E
+东 B-song_type B
+北 I-song_type E
+二 I-song_type B
+人 I-song_type I
+转 E-song_type E
+。 O B
+PlayMusic
+
+薛 B-singer_name B
+之 I-singer_name I
+谦 E-singer_name E
+的 O B
+歌 O B
+会 O E
+唱 O B
+吗 O B
+？ O B
+PlayMusic
+
+数 B-song_name B
+星 I-song_name I
+星 E-song_name E
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+好 B-song_name B
+宝 I-song_name B
+宝 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+， O B
+敖 B-song_name B
+包 I-song_name E
+相 I-song_name B
+会 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+追 B-song_name B
+梦 I-song_name E
+赤 I-song_name B
+子 I-song_name I
+心 E-song_name E
+PlayMusic
+
+请 O B
+播 O B
+放 O E
+儿 B-song_type B
+童 E-song_type E
+歌 O B
+曲 O E
+PlayMusic
+
+来 O B
+首 O E
+林 B-singer_name B
+俊 I-singer_name I
+杰 E-singer_name E
+的 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+龙 B-singer_name E
+梅 I-singer_name B
+子 E-singer_name E
+唱 O B
+的 O B
+PlayMusic
+
+播 O B
+放 O E
+劲 B-song_type B
+爆 E-song_type B
+音 O B
+乐 O E
+PlayMusic
+
+敢 B-song_name B
+问 I-song_name B
+路 I-song_name B
+在 I-song_name I
+何 I-song_name I
+方 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+童 B-song_name B
+年 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+任 B-singer_name B
+贤 I-singer_name I
+齐 E-singer_name E
+的 O B
+弱 B-song_name B
+水 E-song_name E
+PlayMusic
+
+大 B-song_name B
+海 I-song_name E
+航 I-song_name B
+行 I-song_name E
+靠 I-song_name B
+舵 I-song_name B
+手 E-song_name E
+PlayMusic
+
+听 O B
+听 O E
+一 O B
+首 O I
+歌 O E
+， O B
+被 S-song_name B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+广 B-song_name B
+东 I-song_name E
+爱 I-song_name B
+情 I-song_name I
+故 I-song_name I
+事 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+最 B-ranking B
+新 E-ranking E
+的 O B
+泰 B-song_language B
+语 E-song_language E
+歌 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+美 B-song_name B
+女 E-song_name E
+吗 O B
+？ O B
+PlayMusic
+
+播 O B
+放 O E
+一 B-story_name B
+年 I-story_name I
+级 I-story_name E
+的 I-story_name B
+小 I-story_name B
+豆 I-story_name I
+豆 E-story_name E
+PlayFMStory
+
+殇 B-song_name B
+雪 E-song_name B
+， O B
+歌 O B
+曲 O E
+PlayMusic
+
+唱 O B
+陈 B-singer_name B
+奕 I-singer_name I
+迅 E-singer_name E
+的 O B
+. O B
+. O E
+PlayMusic
+
+歌 O B
+曲 O E
+， O B
+高 B-song_name B
+天 I-song_name B
+上 I-song_name E
+流 I-song_name B
+云 E-song_name E
+。 O B
+PlayMusic
+
+生 B-song_name B
+活 I-song_name E
+不 I-song_name B
+止 I-song_name E
+眼 I-song_name B
+前 I-song_name E
+的 I-song_name B
+苟 I-song_name B
+且 E-song_name E
+PlayMusic
+
+那 O B
+你 O B
+能 O B
+放 O B
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+的 O B
+歌 O B
+吗 O B
+？ O B
+PlayMusic
+
+播 O B
+放 O E
+青 B-song_name B
+春 E-song_name E
+PlayMusic
+
+来 O B
+首 O E
+刘 B-singer_name B
+若 I-singer_name I
+英 E-singer_name E
+的 O B
+后 B-song_name B
+来 E-song_name E
+PlayMusic
+
+给 O B
+我 O B
+唱 O B
+首 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+经 B-song_type B
+典 I-song_type E
+老 I-song_type B
+歌 E-song_type E
+PlayMusic
+
+今 B-date B
+天 E-date E
+的 O B
+天 O B
+气 O I
+情 O I
+况 O E
+怎 O B
+么 O I
+样 O E
+GetWeather
+
+播 O B
+放 O E
+段 B-joke_name B
+子 I-joke_name E
+来 I-joke_name B
+了 E-joke_name B
+PlayFMJoke
+
+唱 O B
+李 B-singer_name B
+玉 I-singer_name I
+刚 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+偏 B-song_name B
+偏 I-song_name E
+喜 I-song_name B
+欢 I-song_name E
+你 E-song_name B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+新 O B
+红 B-song_name B
+旗 E-song_name E
+。 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+摇 B-song_type B
+篮 I-song_type I
+曲 E-song_type E
+PlayMusic
+
+明 B-date B
+天 E-date E
+深 B-location B
+圳 E-location E
+天 O B
+气 O E
+怎 O B
+么 O I
+样 O E
+GetWeather
+
+我 O B
+想 O B
+听 O B
+童 B-song_name B
+年 E-song_name E
+。 O B
+PlayMusic
+
+我 B-song_name B
+怎 I-song_name B
+么 I-song_name E
+这 I-song_name B
+么 I-song_name E
+好 I-song_name B
+看 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+国 B-song_name B
+歌 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+徐 B-singer_name B
+誉 I-singer_name E
+滕 E-singer_name B
+的 O B
+天 B-song_name B
+使 I-song_name E
+的 I-song_name B
+翅 I-song_name B
+膀 E-song_name E
+PlayMusic
+
+弈 B-song_name B
+剑 I-song_name E
+听 I-song_name B
+雨 I-song_name I
+阁 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+狂 B-song_name B
+浪 E-song_name E
+PlayMusic
+
+陈 B-singer_name B
+晓 I-singer_name I
+东 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+天 B-song_name B
+空 I-song_name E
+之 I-song_name B
+城 E-song_name B
+。 O B
+PlayMusic
+
+打 O B
+开 O E
+背 B-song_type B
+景 E-song_type I
+音 O I
+乐 O E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+奏 B-song_name B
+是 I-song_name B
+你 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+带 B-song_name B
+我 I-song_name B
+到 I-song_name B
+山 I-song_name B
+顶 E-song_name E
+的 O B
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+请 O B
+搜 O B
+索 O E
+家 B-song_name B
+乡 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+你 O B
+唱 O B
+失 B-song_name B
+落 I-song_name E
+沙 I-song_name B
+洲 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+宣 B-song_name B
+战 E-song_name E
+。 O B
+PlayMusic
+
+帮 O B
+我 O B
+换 O B
+一 O B
+首 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+葫 B-song_name B
+芦 I-song_name I
+娃 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+熊 B-album_name B
+出 I-album_name I
+没 E-album_name E
+。 O B
+PlayMusic
+
+不 O B
+是 O E
+那 O B
+个 O E
+ControlSystem
+
+轻 B-song_type B
+音 I-song_type I
+乐 E-song_type E
+。 O B
+PlayMusic
+
+花 B-song_name B
+好 I-song_name I
+月 I-song_name I
+圆 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+请 O B
+给 O B
+我 O B
+说 O B
+说 O B
+李 B-song_name B
+小 I-song_name I
+龙 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+吴 B-singer_name B
+克 I-singer_name I
+群 E-singer_name E
+的 O B
+你 B-song_name B
+敢 I-song_name B
+不 I-song_name I
+敢 I-song_name E
+再 I-song_name B
+傻 I-song_name B
+一 I-song_name B
+次 E-song_name E
+PlayMusic
+
+唱 O B
+首 O E
+林 B-singer_name B
+俊 I-singer_name I
+杰 E-singer_name E
+的 O B
+“ O B
+记 B-song_name B
+得 E-song_name E
+” O B
+PlayMusic
+
+三 B-date B
+十 I-date I
+分 I-date I
+钟 I-date E
+后 E-date B
+关 O B
+闭 O E
+音 O B
+乐 O E
+ControlSystem
+
+把 O B
+b B-singer_name B
+i I-singer_name I
+g I-singer_name I
+b I-singer_name I
+a I-singer_name I
+n I-singer_name I
+g E-singer_name E
+的 O B
+谎 B-song_name B
+言 E-song_name E
+这 O B
+首 O B
+歌 O E
+发 O B
+过 O I
+来 O E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+那 B-song_name B
+些 I-song_name E
+年 E-song_name B
+。 O B
+PlayMusic
+
+帮 O B
+我 O B
+播 O B
+放 O E
+郑 B-singer_name B
+少 I-singer_name I
+秋 E-singer_name E
+的 O B
+男 B-song_name B
+人 I-song_name E
+四 I-song_name B
+十 I-song_name E
+一 I-song_name B
+枝 I-song_name I
+花 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+有 B-song_name B
+何 I-song_name I
+不 I-song_name I
+可 E-song_name E
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+最 B-song_name B
+炫 I-song_name E
+民 I-song_name B
+族 I-song_name E
+风 E-song_name B
+。 O B
+PlayMusic
+
+唱 O B
+费 B-singer_name B
+玉 I-singer_name I
+清 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+牧 B-song_name B
+羊 I-song_name I
+曲 E-song_name E
+。 O B
+PlayMusic
+
+高 O B
+清 O E
+放 O B
+一 O B
+首 O E
+老 B-song_name B
+婆 I-song_name E
+最 I-song_name B
+大 E-song_name E
+。 O B
+PlayMusic
+
+安 B-song_name B
+娜 I-song_name E
+的 I-song_name B
+橱 I-song_name B
+窗 E-song_name E
+。 O B
+PlayMusic
+
+乐 B-song_name B
+作 I-song_name E
+人 I-song_name B
+生 E-song_name E
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+逆 B-song_name B
+态 I-song_name B
+度 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+齐 B-singer_name B
+豫 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+给 O B
+我 O B
+讲 O B
+个 O E
+睡 B-story_tag B
+前 E-story_tag E
+故 O B
+事 O E
+PlayFMStory
+
+侃 B-singer_name B
+侃 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+王 B-singer_name B
+菲 E-singer_name E
+演 B-song_type B
+唱 I-song_type I
+会 E-song_type E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+光 B-song_name B
+年 I-song_name E
+之 I-song_name B
+外 E-song_name E
+PlayMusic
+
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+第 O B
+一 O I
+首 O I
+歌 O E
+PlayMusic
+
+唱 O B
+首 O E
+洪 B-song_name B
+湖 I-song_name E
+水 E-song_name B
+。 O B
+PlayMusic
+
+放 O B
+h B-song_name B
+i I-song_name I
+g I-song_name I
+h I-song_name E
+歌 E-song_name B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+那 B-singer_name B
+英 E-singer_name E
+的 O B
+歌 O B
+给 O B
+我 O B
+听 O B
+PlayMusic
+
+适 O B
+合 O E
+伤 B-song_type B
+感 E-song_type E
+时 O B
+听 O B
+的 O I
+歌 O E
+PlayMusic
+
+笨 B-song_name B
+小 I-song_name I
+孩 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+残 B-song_name B
+雪 E-song_name E
+。 O B
+PlayMusic
+
+我 O B
+还 O B
+想 O B
+知 O B
+道 O E
+初 B-singer_name B
+音 E-singer_name E
+姐 O B
+姐 O E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+摇 B-song_type B
+滚 E-song_type E
+抒 B-song_type B
+情 E-song_type E
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+原 B-joke_tag B
+声 I-joke_tag I
+侠 E-joke_tag E
+的 O B
+羊 B-joke_name B
+被 I-joke_name B
+人 I-joke_name B
+吃 I-joke_name B
+了 E-joke_name B
+PlayFMJoke
+
+播 O B
+放 O E
+陈 B-singer_name B
+粒 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+想 O B
+听 O B
+就 B-song_name B
+是 I-song_name E
+爱 E-song_name B
+。 O B
+PlayMusic
+
+你 B-song_name B
+为 I-song_name B
+了 I-song_name E
+爱 I-song_name B
+情 E-song_name E
+， O B
+黎 B-singer_name B
+姿 E-singer_name E
+唱 O B
+的 O B
+PlayMusic
+
+快 O B
+唱 O E
+许 B-singer_name B
+嵩 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+北 B-song_name B
+京 I-song_name E
+东 I-song_name B
+路 I-song_name E
+的 I-song_name B
+日 I-song_name B
+子 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+原 B-joke_tag B
+声 I-joke_tag I
+侠 E-joke_tag E
+的 O B
+随 B-joke_name B
+军 I-joke_name E
+记 I-joke_name B
+者 I-joke_name E
+报 I-joke_name B
+道 E-joke_name E
+PlayFMJoke
+
+我 O B
+要 O E
+听 O B
+， O B
+不 B-song_name B
+要 I-song_name E
+忘 I-song_name B
+记 I-song_name E
+我 I-song_name B
+爱 I-song_name I
+你 E-song_name E
+！ O B
+PlayMusic
+
+白 B-song_name B
+狐 E-song_name E
+歌 O B
+手 O E
+陈 B-singer_name B
+瑞 E-singer_name E
+。 O B
+PlayMusic
+
+分 B-song_name B
+手 I-song_name E
+快 I-song_name B
+乐 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+林 B-singer_name B
+俊 I-singer_name I
+杰 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+传 B-song_name B
+奇 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+n B-song_name B
+p I-song_name I
+c E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+又 B-song_name B
+见 I-song_name B
+山 I-song_name B
+里 I-song_name I
+红 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+失 B-singer_name B
+恋 I-singer_name E
+阵 I-singer_name B
+线 I-singer_name E
+联 I-singer_name B
+盟 E-singer_name E
+PlayMusic
+
+林 B-singer_name B
+俊 I-singer_name I
+杰 E-singer_name E
+。 O B
+PlayMusic
+
+请 O B
+播 O B
+放 O E
+邓 B-singer_name B
+丽 I-singer_name I
+君 E-singer_name E
+的 O B
+我 B-song_name B
+只 I-song_name B
+在 I-song_name I
+乎 I-song_name E
+你 E-song_name B
+PlayMusic
+
+白 B-story_name B
+月 I-story_name I
+光 E-story_name E
+PlayFMStory
+
+播 O B
+放 O I
+歌 O I
+曲 O E
+, O B
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+。 O B
+PlayMusic
+
+歌 O B
+名 O E
+是 O B
+演 B-song_name B
+员 E-song_name E
+PlayMusic
+
+唱 O B
+首 O E
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+《 O B
+晴 B-song_name B
+天 E-song_name E
+》 O B
+吧 O B
+！ O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+弟 B-song_name B
+子 I-song_name I
+规 E-song_name E
+。 O B
+PlayMusic
+
+不 B-song_name B
+必 I-song_name E
+在 I-song_name B
+乎 I-song_name E
+我 I-song_name B
+是 I-song_name B
+谁 E-song_name B
+PlayMusic
+
+北 B-location B
+京 E-location E
+天 O B
+气 O E
+怎 O B
+么 O I
+样 O E
+GetWeather
+
+蒙 B-song_type B
+语 E-song_type E
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+鲁 B-song_name B
+冰 I-song_name I
+花 E-song_name E
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+李 B-author_name B
+白 E-author_name E
+的 O B
+诗 O B
+PlayPoem
+
+播 O B
+放 O E
+的 O B
+陨 B-fiction_name B
+落 I-fiction_name E
+的 I-fiction_name B
+天 I-fiction_name B
+才 E-fiction_name E
+PlayFMFiction
+
+听 O B
+催 B-song_type B
+眠 I-song_type I
+曲 E-song_type E
+PlayMusic
+
+念 O B
+三 B-poem_name B
+字 I-poem_name I
+经 E-poem_name E
+PlayPoem
+
+我 O B
+要 O E
+听 O B
+上 B-song_name B
+学 I-song_name E
+歌 E-song_name B
+。 O B
+PlayMusic
+
+明 B-date B
+天 E-date E
+新 B-location B
+疆 E-location E
+的 O B
+天 O B
+气 O E
+GetWeather
+
+我 O B
+想 O B
+听 O B
+徐 B-singer_name B
+佳 I-singer_name I
+莹 E-singer_name E
+的 O B
+失 B-song_name B
+落 I-song_name E
+沙 I-song_name B
+洲 E-song_name E
+PlayMusic
+
+黑 B-singer_name B
+豹 I-singer_name E
+乐 I-singer_name B
+队 E-singer_name E
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+喊 B-song_name B
+麦 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+青 B-song_name B
+鸟 E-song_name E
+PlayMusic
+
+请 O B
+播 O B
+放 O E
+白 B-movie_name B
+雪 I-movie_name I
+公 I-movie_name I
+主 E-movie_name E
+PlayMusic
+
+金 B-poem_name B
+刚 I-poem_name I
+经 E-poem_name E
+PlayPoem
+
+我 O B
+想 O B
+听 O B
+年 B-song_name B
+轮 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+高 B-song_name B
+山 I-song_name I
+流 I-song_name I
+水 E-song_name E
+歌 O B
+PlayMusic
+
+唱 O B
+一 O B
+个 O E
+p B-song_name B
+p I-song_name I
+s E-song_name E
+。 O B
+PlayMusic
+
+回 B-song_name B
+忆 I-song_name E
+总 I-song_name B
+想 I-song_name E
+哭 E-song_name B
+PlayMusic
+
+播 O B
+放 O E
+半 B-song_name B
+壶 I-song_name E
+纱 E-song_name B
+PlayMusic
+
+? O B
+? O B
+来 O B
+一 O B
+首 O E
+纤 B-song_name B
+夫 I-song_name E
+的 I-song_name B
+爱 E-song_name B
+PlayMusic
+
+l B-song_name B
+o I-song_name I
+v I-song_name I
+i I-song_name I
+n I-song_name I
+g E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+陈 B-singer_name B
+奕 I-singer_name I
+迅 E-singer_name E
+PlayMusic
+
+歌 O B
+曲 O E
+活 B-song_name B
+出 I-song_name E
+个 I-song_name B
+样 I-song_name E
+来 I-song_name B
+给 I-song_name B
+自 I-song_name B
+己 I-song_name E
+看 E-song_name B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+小 B-song_name B
+红 I-song_name I
+帽 E-song_name E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+唱 O B
+《 O B
+我 B-song_name B
+是 I-song_name B
+女 I-song_name B
+生 E-song_name E
+》 O B
+PlayMusic
+
+齐 B-singer_name B
+秦 E-singer_name E
+的 O B
+夜 B-song_name B
+夜 I-song_name E
+夜 I-song_name B
+夜 E-song_name E
+PlayMusic
+
+咖 B-song_type B
+啡 I-song_type I
+馆 E-song_type E
+音 O B
+乐 O E
+PlayMusic
+
+因 B-song_name B
+为 I-song_name E
+爱 I-song_name B
+你 E-song_name B
+王 B-singer_name B
+菲 E-singer_name E
+唱 O B
+的 O B
+。 O B
+PlayMusic
+
+来 O B
+一 O B
+首 O E
+唐 B-poem_tag B
+诗 E-poem_tag E
+PlayPoem
+
+你 O B
+给 O B
+我 O B
+， O B
+听 O B
+个 O E
+d B-song_type B
+j E-song_type E
+的 O B
+歌 O B
+。 O B
+PlayMusic
+
+放 O B
+一 O B
+首 O E
+h B-song_name B
+i I-song_name I
+g I-song_name I
+h I-song_name E
+歌 E-song_name B
+PlayMusic
+
+来 O B
+一 O B
+首 O I
+歌 O E
+拍 B-song_name B
+气 I-song_name B
+球 E-song_name E
+。 O B
+PlayMusic
+
+换 O B
+一 O B
+首 O E
+逆 B-song_name B
+战 E-song_name E
+吧 O B
+！ O B
+PlayMusic
+
+唱 O B
+周 B-singer_name B
+传 I-singer_name I
+雄 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+给 O B
+我 O B
+唱 O B
+薛 B-singer_name B
+之 I-singer_name I
+谦 E-singer_name E
+的 O B
+歌 O B
+吧 O B
+PlayMusic
+
+播 O B
+放 O E
+七 B-song_name B
+里 I-song_name I
+香 E-song_name E
+PlayMusic
+
+明 B-date B
+天 E-date E
+天 O B
+气 O E
+怎 O B
+么 O I
+样 O E
+啊 O B
+GetWeather
+
+一 B-date B
+分 I-date I
+钟 E-date E
+后 O B
+提 O B
+醒 O E
+我 O B
+喝 B-event B
+水 E-event E
+Remind
+
+明 B-date B
+天 E-date E
+天 O B
+气 O E
+咋 O B
+样 O E
+GetWeather
+
+等 B-song_name B
+你 I-song_name B
+等 I-song_name B
+了 I-song_name B
+那 I-song_name B
+么 I-song_name E
+久 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+有 B-song_name B
+点 I-song_name E
+意 I-song_name B
+思 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+哪 O B
+一 O B
+个 O E
+轻 B-song_type B
+音 I-song_type I
+乐 E-song_type E
+PlayMusic
+
+播 O B
+放 O E
+王 B-singer_name B
+北 I-singer_name I
+车 E-singer_name E
+的 O B
+姑 B-song_name B
+娘 E-song_name E
+PlayMusic
+
+方 B-actor_name B
+清 I-actor_name B
+平 E-actor_name E
+的 O B
+相 O B
+声 O E
+PlayFMCrosstalk
+
+理 B-song_name B
+由 E-song_name E
+听 O B
+PlayMusic
+
+我 B-song_name B
+爱 I-song_name B
+我 I-song_name B
+的 I-song_name B
+家 E-song_name B
+PlayMusic
+
+放 O B
+米 B-story_tag E
+小 I-story_tag B
+圈 E-story_tag E
+PlayFMStory
+
+播 O B
+放 O E
+童 B-singer_name B
+安 I-singer_name I
+格 E-singer_name E
+的 O B
+歌 O B
+曲 O E
+PlayMusic
+
+播 O B
+放 O E
+采 B-song_name B
+蘑 I-song_name I
+菇 I-song_name E
+的 I-song_name B
+小 I-song_name B
+姑 I-song_name I
+娘 E-song_name E
+PlayMusic
+
+会 O B
+唱 O B
+小 B-song_name B
+酒 I-song_name B
+窝 E-song_name E
+吗 O B
+？ O B
+PlayMusic
+
+唱 O B
+歌 O E
+我 B-song_name B
+好 I-song_name B
+想 I-song_name I
+你 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+今 B-song_name B
+夜 I-song_name E
+无 I-song_name B
+眠 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+杨 B-singer_name B
+坤 E-singer_name E
+的 O B
+站 B-song_name B
+台 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+萨 B-song_type B
+克 I-song_type I
+斯 E-song_type E
+回 B-song_name B
+家 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+小 B-story_tag B
+猪 E-story_tag E
+PlayFMStory
+
+播 O B
+放 O E
+时 B-news_tag B
+政 E-news_tag E
+新 O B
+闻 O E
+GetNews
+
+一 B-song_name B
+百 I-song_name I
+万 I-song_name I
+个 I-song_name E
+可 I-song_name B
+能 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+神 B-song_name B
+经 I-song_name I
+病 E-song_name E
+。 O B
+PlayMusic
+
+播 O B
+放 O E
+一 O B
+首 O E
+韩 B-song_language B
+语 E-song_language E
+歌 O B
+曲 O E
+你 B-song_name B
+最 I-song_name B
+红 E-song_name E
+PlayMusic
+
+风 B-song_name B
+筝 I-song_name E
+误 E-song_name B
+PlayMusic
+
+播 O B
+放 O E
+海 B-song_name B
+绵 I-song_name E
+宝 I-song_name B
+宝 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+电 B-song_type B
+音 E-song_type E
+歌 O B
+曲 O E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+马 B-singer_name B
+良 E-singer_name E
+的 O B
+往 B-song_name B
+后 I-song_name E
+余 I-song_name B
+生 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+七 B-song_name B
+月 I-song_name E
+上 E-song_name B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+给 O B
+我 O B
+唱 O B
+首 O E
+小 B-song_name B
+幸 I-song_name B
+运 E-song_name E
+吧 O B
+PlayMusic
+
+播 O B
+放 O E
+一 O B
+首 O E
+流 B-song_type B
+行 E-song_type I
+歌 O I
+曲 O E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+恭 B-song_name B
+喜 I-song_name E
+恭 I-song_name B
+喜 E-song_name E
+。 O B
+PlayMusic
+
+小 O B
+欧 O E
+， O B
+给 O B
+我 O B
+唱 O B
+首 O E
+天 B-song_name B
+使 I-song_name E
+的 I-song_name B
+翅 I-song_name B
+膀 E-song_name E
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+今 B-news_time B
+天 E-news_time E
+的 O B
+热 B-news_tag B
+点 E-news_tag E
+GetNews
+
+放 O B
+一 O B
+首 O E
+吴 B-singer_name B
+青 I-singer_name B
+峰 E-singer_name E
+的 O B
+起 B-song_name B
+风 I-song_name E
+了 E-song_name B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+孙 B-singer_name B
+子 I-singer_name E
+涵 E-singer_name B
+的 O B
+歌 O B
+PlayMusic
+
+播 O B
+放 O E
+一 B-song_name B
+百 I-song_name I
+万 I-song_name I
+个 I-song_name E
+可 I-song_name B
+能 E-song_name E
+PlayMusic
+
+能 O B
+不 O B
+能 O E
+太 O B
+好 O B
+听 O E
+啦 O B
+， O B
+你 O B
+给 O B
+我 O B
+， O B
+唱 O B
+一 O B
+首 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+吗 O B
+？ O B
+PlayMusic
+
+阿 B-song_name B
+里 I-song_name I
+山 I-song_name E
+的 I-song_name B
+姑 I-song_name B
+娘 E-song_name E
+PlayMusic
+
+八 B-date B
+点 I-date I
+半 E-date E
+叫 O B
+我 O B
+起 B-event B
+床 E-event E
+Remind
+
+播 O B
+放 O E
+小 B-song_name B
+苹 I-song_name I
+果 E-song_name E
+PlayMusic
+
+音 O B
+乐 O E
+有 B-song_name B
+点 I-song_name E
+甜 E-song_name B
+。 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+蔡 B-singer_name B
+琴 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+弟 B-poem_name B
+子 I-poem_name I
+规 E-poem_name E
+PlayPoem
+
+我 O B
+想 O B
+听 O B
+轻 B-song_type B
+音 I-song_type I
+乐 E-song_type E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+圣 B-song_type B
+诞 I-song_type I
+节 E-song_type E
+歌 O B
+曲 O E
+。 O B
+PlayMusic
+
+唱 O B
+唱 O E
+童 B-song_name B
+话 E-song_name E
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+大 B-song_name B
+梦 I-song_name B
+想 I-song_name I
+家 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+宋 B-singer_name B
+冬 I-singer_name I
+野 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+张 B-singer_name B
+宇 E-singer_name E
+的 O B
+给 B-song_name B
+你 I-song_name B
+们 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+我 B-story_tag B
+的 I-story_tag B
+世 I-story_tag B
+界 E-story_tag E
+PlayFMStory
+
+明 B-date B
+天 I-date E
+九 I-date B
+点 E-date E
+叫 O B
+我 O B
+起 B-event B
+床 E-event E
+Remind
+
+我 O B
+说 O B
+求 O E
+你 O B
+帮 O B
+我 O B
+搜 O B
+一 O B
+下 O E
+左 B-song_name B
+手 I-song_name E
+右 I-song_name B
+手 E-song_name E
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+纸 B-song_name B
+短 I-song_name I
+情 I-song_name I
+长 E-song_name E
+PlayMusic
+
+中 B-song_type B
+国 E-song_type E
+歌 O B
+PlayMusic
+
+我 O B
+要 O E
+听 O B
+我 O B
+要 O B
+听 O B
+故 O B
+事 O E
+小 B-story_name B
+猪 I-story_name E
+佩 I-story_name B
+奇 E-story_name E
+PlayFMStory
+
+想 O B
+听 O B
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+稻 B-song_name B
+香 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+莫 B-singer_name B
+文 I-singer_name I
+蔚 E-singer_name E
+的 O B
+扶 B-song_name B
+摇 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+红 B-song_name B
+色 I-song_name E
+高 I-song_name B
+跟 I-song_name I
+鞋 E-song_name E
+PlayMusic
+
+唱 O B
+认 B-song_name B
+错 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+罗 B-singer_name B
+大 I-singer_name I
+佑 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+请 O B
+播 O B
+放 O E
+离 B-song_name B
+人 I-song_name I
+愁 E-song_name E
+PlayMusic
+
+播 O B
+放 O E
+多 B-song_name B
+喜 I-song_name B
+欢 I-song_name E
+你 E-song_name B
+PlayMusic
+
+那 O B
+你 O B
+唱 O B
+一 O B
+首 O E
+儿 B-song_type B
+歌 E-song_type E
+送 O B
+给 O E
+我 O B
+PlayMusic
+
+播 O B
+放 O E
+热 B-song_type B
+门 E-song_type E
+歌 O B
+曲 O E
+PlayMusic
+
+听 O B
+伤 B-song_name E
+不 I-song_name B
+起 E-song_name E
+。 O B
+PlayMusic
+
+认 O B
+真 O E
+的 O B
+回 O B
+答 O E
+， O B
+我 B-song_name B
+想 I-song_name B
+听 I-song_name B
+你 I-song_name B
+说 E-song_name B
+这 O B
+首 O B
+歌 O E
+。 O B
+PlayMusic
+
+唱 O B
+首 O E
+儿 B-song_type B
+歌 E-song_type E
+。 O B
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+故 O B
+事 O E
+灰 B-story_name B
+姑 I-story_name I
+娘 E-story_name E
+PlayFMStory
+
+我 O B
+要 O E
+听 O B
+红 B-song_name B
+豆 E-song_name E
+PlayMusic
+
+我 O B
+想 O B
+听 O B
+， O B
+逆 B-song_name B
+战 E-song_name E
+。 O B
+PlayMusic
+
+推 O B
+荐 O E
+几 O B
+首 O E
+陈 B-singer_name B
+奕 I-singer_name I
+迅 E-singer_name E
+的 O B
+歌 O B
+PlayMusic
+
+唱 O B
+一 O B
+首 O E
+云 B-singer_name B
+飞 E-singer_name E
+的 O B
+歌 O B
+呗 O B
+PlayMusic
+
+放 O B
+周 B-singer_name B
+杰 I-singer_name I
+伦 E-singer_name E
+的 O B
+歌 O B
+曲 O E
+PlayMusic
+
+那 O B
+我 O B
+定 O E
+明 B-date B
+天 I-date E
+早 I-date B
+晨 I-date E
+五 I-date B
+点 E-date E
+的 O B
+闹 O B
+钟 O E
+Remind
+
+请 O B
+播 O B
+放 O E
+郭 B-crosstalk_name B
+德 I-crosstalk_name I
+纲 E-crosstalk_name E
+的 O B
+相 O B
+声 O E
+PlayFMCrosstalk
+
